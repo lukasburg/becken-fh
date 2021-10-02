@@ -9,6 +9,6 @@ git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 gem "github-pages", "~> 219", group: :jekyll_plugins
 
 group :jekyll_plugins do
-  gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tags'
+  gem 'jekyll-sitemap', "~> 1.4.0"
+  gem 'jekyll-seo-tag', "~> 2.7.1"
 end
