@@ -159,6 +159,8 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.7.1)
       jekyll (>= 3.8, < 5.0)
+    jekyll-seo-tags (1.0.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-swiss (1.0.0)
@@ -272,6 +274,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 219)
+  jekyll-seo-tags
+  jekyll-sitemap
 
 BUNDLED WITH
    2.2.24

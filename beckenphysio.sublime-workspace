@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"expected_result"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "beckenphysio.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: file",
+				"Package Control: Create Package File"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"User",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 263.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/lukas/Programming/beckenphysiotherapie"
+	],
+	"file_history":
+	[
+		"/home/lukas/Universitaet/6_Bachelorarbeit/testdaten/import_records.py",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/testdaten/.gitignore",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/.git/info/exclude",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/index.html",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/kurse.html",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/_data/navigation.yml",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/assets/css/styles.scss",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/blog.html",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/_layouts/post.html",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/_posts/2018-08-20-bananas.md",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/_layouts/default.html",
+		"/home/lukas/steam-1390350.log",
+		"/home/lukas/.steam/steam/steamapps/common/Webbed/steam_appid.txt",
+		"/home/lukas/.steam/steam/steamapps/common/Webbed/webbed_dxgi.log",
+		"/home/lukas/.xsession-errors",
+		"/home/lukas/tor-browser_en-US/start-tor-browser.desktop",
+		"/home/lukas/steam-377160.log",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/_includes/navigation.html",
+		"/home/lukas/.minecraft/saves/Sofort/region/r.-1.-1.mca",
+		"/home/lukas/.minecraft/saves/New World/region/r.-7.11.mca",
+		"/home/lukas/Downloads/config",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/_sass/main.scss",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/_config.yml",
+		"/home/lukas/seagate/System Volume Information/Chkdsk/Chkdsk20210430085417.log",
+		"/home/lukas/Programming/mamasweb/lukasburg.github.io/_kurse/feldenkrais.md",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/presentation/presentation.tex",
+		"/home/lukas/DATA/Programming/loan-approval/src/main/java/com/example/loanapproval/WebappExampleProcessApplication.java",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/testdaten/dataset.properties",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/.gitignore",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/linkage-unit/src/main/resources/complete_linkage.bpmn",
+		"/home/lukas/.local/share/Steam/steamapps/common/Sid Meier's Civilization VI/aspyrassets/global/string/app.json",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/presentation/.gitignore",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/input/introduction.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/input/protocol.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/input/Erklaerung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/input/design.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/README.md",
+		"/home/lukas/Universitaet/5_Praktikum/input/fazit.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/quellen.bib",
+		"/home/lukas/Universitaet/5_TextMining/mazarin-tts-speeches/paper_stuff/lab_report/input/4_3_fazit.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/other/multi-instance-messages/src/main/resources/process.bpmn",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/linkage-unit/src/main/resources/compare_classify.bpmn",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/linkage-unit/src/main/resources/fiddle/listen.bpmn",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/linkage-unit/src/main/resources/list_fiddle.bpmn",
+		"/home/lukas/Universitaet/5_Praktikum/input/lessons_learned.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/chronologie.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/projektbeschreibung.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/introduction.tex",
+		"/home/lukas/Universitaet/5_Praktikum/bericht.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/preamble.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/meta.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/other/example-project/src/main/java/org/example/chargecard/ChargeCardWorker.java",
+		"/home/lukas/Universitaet/4_BR/Inputs/Serie08.tex",
+		"/home/lukas/Universitaet/5_Praktikum/.gitignore",
+		"/home/lukas/Universitaet/5_Praktikum/input/bibliography.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/title_page.tex",
+		"/home/lukas/Universitaet/5_Praktikum/Wochenplan.md",
+		"/home/lukas/Universitaet/5_Praktikum/bericht.log",
+		"/home/lukas/Universitaet/5_TextMining/mazarin-tts-speeches/paper_stuff/lab_report/input/3_5_quality.tex",
+		"/home/lukas/Universitaet/5_TextMining/mazarin-tts-speeches/paper_stuff/lab_report/input/3_2_datasets.tex",
+		"/home/lukas/Universitaet/5_TextMining/mazarin-tts-speeches/paper_stuff/lab_report/input/bibliography.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/packages.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/meta.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/bachelorthesis.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/page_layout.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/5_fazit.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/4_lessons_learned.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/3_chronologie.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/1_introduction.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/2_projektbeschreibung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/cover.tex",
+		"/home/lukas/Universitaet/5_Praktikum/input/2_Projektbeschreibung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/.gitignore",
+		"/home/lukas/Universitaet/3_AutomatenSprachen/serie1_loesung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/input/abstract.tex",
+		"/usr/share/texlive/texmf-dist/tex/latex/base/report.cls",
+		"/home/lukas/Universitaet/5_TextMining/mazarin-tts-speeches/paper_stuff/lab_report/lab_report_mazarin.tex",
+		"/home/lukas/Universitaet/5_Praktikum/bericht-externes-praktikum.tex",
+		"/home/lukas/Programming/tis100/compiler.py",
+		"/home/lukas/Universitaet/5_TextMining/mazarin-tts-speeches/src/create_dataset/create_dataset/create_dataset.py",
+		"/home/lukas/.local/share/camunda-modeler-4.7.0-linux-x64/camunda-modeler.desktop",
+		"/home/lukas/.ssh/static-key-agora-vpn.txt",
+		"/home/lukas/.ssh/config",
+		"/home/lukas/.ssh/agora-vpn-config.txt",
+		"/home/lukas/.local/share/TIS-100/76561198061973186/custom/18363625.lua",
+		"/home/lukas/Games/qjoypad-4.1.0/INSTALL.txt",
+		"/home/lukas/Games/qjoypad-4.1.0/src/Makefile",
+		"/home/lukas/Universitaet/5_TextMining/mazarin-tts-speeches/src/create_dataset/obama_scrape/obama_scrape/middlewares.py",
+		"/home/lukas/Programming/pasch.py",
+		"/home/lukas/Programming/pasch.pz",
+		"/home/lukas/Programming/pasch",
+		"/home/lukas/Universitaet/5_TextMining/mazarin-tts-speeches/src/create_dataset/obama_scrape/obama_scrape/pipelines.py",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/.git/hooks/pre-commit",
+		"/home/lukas/.config/sublime-text-3/Packages/LaTeXTools/builders/pdfBuilder.py",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/report/input/Danksagung.tex",
+		"/home/lukas/Universitaet/4_BR/Inputs/Serie04.tex",
+		"/home/lukas/Universitaet/4_BR/Loesung_gesamt.tex",
+		"/home/lukas/Universitaet/4_BR/Inputs/Serie10.tex",
+		"/home/lukas/Universitaet/4_BR/Inputs/Preamble.tex",
+		"/home/lukas/Universitaet/4_BR/Inputs/Serie03.tex",
+		"/home/lukas/Universitaet/4_BR/Inputs/Serie02.tex",
+		"/home/lukas/Universitaet/4_BR/Inputs/Serie12.tex",
+		"/home/lukas/Programming/tis100/sequence_sort.py",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/packages.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/hyphenation.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/.meta.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/input/Erklaerung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/input/Danksagung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/cover.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/input/abstract.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/input/introduction.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/bachelorthesis.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/.gitignore",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Seitenstil.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/hyp.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/No.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Deckblatt.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Masterarbeit.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Inhalt/Abstract.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Inhalt/Erklaerung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Inhalt/Introduction.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/_Meta.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Silbentrennung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Packages.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/Inhalt/Danksagung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/tex/Masterarbeit.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/tex/Inhalt/Danksagung.tex",
+		"/home/lukas/Universitaet/6_Bachelorarbeit/gradual-disclosure/report/tex/_Meta.tex"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "beckenphysio.sublime-project",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "beckenphysio.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
