@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index
 title: Home
 ---
 
@@ -19,4 +19,3 @@ Ich bin Heilpraktikerin für Physiotherapie wodurch Sie mich auch ohne ärztlich
 Melden Sie sich gerne für eine persönliche Beratung oder mehr Informationen zu meiner Praxis.
 
 *Link Kontakt Aufnehmen*
-*Kästchen*

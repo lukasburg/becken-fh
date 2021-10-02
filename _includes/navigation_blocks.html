@@ -1,0 +1,9 @@
+{% for nav in site.data.navigation %}
+  {% if nav.name != "Home" %}
+    <a href="{{ nav.link }}">
+      <div style="height: 100px; width: 100px;">
+          {{ nav.name }}
+      </div>
+    </a>
+  {% endif %}
+{% endfor %}
