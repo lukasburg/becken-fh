@@ -1,4 +1,12 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
+- name: Beckenboden
+  link: /beckenboden.html
+- name: Beckenboden-Check
+  link: /beckenboden-check.html
+- name: Behandlungen
+  link: /behandlungen.html
+- name: Über mich
+  link: /ueber-mich.html
+- name: Kontakt
+  link: /kontakt.html
