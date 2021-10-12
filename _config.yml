@@ -1,5 +1,5 @@
-domain: carineschippers.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://carineschippers.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: beckenboden-friedrichshagen.de       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://beckenboden-friedrichshagen.de  # the base hostname and protocol for your site, e.g. http://example.com
 repository: carineschippers/carineschippers.github.io
 
 plugins:
@@ -8,3 +8,7 @@ plugins:
 
 markdown: kramdown
 highligher: rouge
+
+exclude:
+  - beckenphysio.sublime-project
+  - beckenphysio.sublime-workspace

@@ -3,3 +3,6 @@ _site/
 _pw.txt
 beckenphysio.sublime-workspace
 beckenphysio.sublime-project
+_sync.sh
+.bundle/
+.sass-cache/
