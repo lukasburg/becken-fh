@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Über mich
+anchor:
+  link: ueber-mich
+  title: Über mich
+image: /assets/images/carine-264.jpg
 ---
 
 ## Über mich

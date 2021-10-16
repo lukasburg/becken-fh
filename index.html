@@ -1,3 +1,7 @@
+---
+welcome_text: HERZLICH WILLKOMMEN
+---
+
 <!doctype html>
 <html lang="de">
   <head>
@@ -5,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{{ page.title }}</title>
+    <title>Beckenbodengesundheit Friedrichshagen</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="/assets/css/styles.css">
@@ -14,26 +18,34 @@
   <body>
     {% include navigation.html %}
 
-    {% if page.header %}
-      <div class="">
-        <div class="row background-image">
-          <img src="{{ page.image }}">
-          <h1>{{ page.header }}</h1>
-        </div>
+    <div class="">
+      <div class="row background-image">
+        <img src="/assets/images/carine-264.jpg">
+        <h1>{{ welcome_text }}</h1>
       </div>
-    {% endif %}
+    </div>
 
-    {% if page.no_container %}
-      {{ content }}
-    {% else %}
-      <div class="container">
+    <div class="container">
+      {% for row in site.rows %}
+        {% if row.anchor %}
+          <a class="anchor" id="{{ row.anchor.link }}"></a>
+        {% endif %}
         <div class="row py-5">
           <div class="col align-self-center">
-            {{ content }}
+            {{ row.content }}
           </div>
+          {% if row.image %}
+            <div class="col-lg-6 col-sm-12">
+              <img src="{{ row.image }}" class="img-fluid px-lg-5 pb-lg-4">
+            </div>
+          {% endif %}
         </div>
-      </div>
-    {% endif %}
+
+        {% unless forloop.last %}
+          <div class="row justify-content-center py-2"><hr></div>
+        {% endunless %}
+      {% endfor %}
+    </div>
 
     {% include footer.html %}
 

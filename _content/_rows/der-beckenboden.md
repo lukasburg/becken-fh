@@ -1,3 +1,7 @@
+---
+image: /assets/images/carine-264.jpg
+---
+
 ### Der Beckenboden
 
 Der Beckenboden ist ganz wichtig. Sehr wichtig sogar.

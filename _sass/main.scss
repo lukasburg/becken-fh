@@ -1,10 +1,8 @@
-$color-violet-crayola: #7B7DDB;
-
 html {
   scroll-behavior: smooth;
 }
 
-// Colors
+// colors
 
 .current {
   color: green;
@@ -30,7 +28,7 @@ html {
   background-image: linear-gradient($white, transparent);
 }
 
-// NAVBAR
+// navbar
 
 .navbar a {
   color: inherit;
@@ -45,7 +43,7 @@ html {
   text-decoration: underline;
 }
 
-// BACKGROUND IMAGE FILLING FULL WIDTH
+// full width background image
 
 .background-image {
   overflow: hidden;
@@ -70,7 +68,7 @@ html {
   top: 50%;
 }
 
-// Lines
+// horizontal lines
 
 hr {
   border: 1px solid $color-violet-crayola;
@@ -78,7 +76,7 @@ hr {
   width: 90% !important;
 }
 
-// Card links
+// card links
 
 a.card {
   text-decoration: inherit;
@@ -95,7 +93,7 @@ a.card * {
   color: inherit;
 }
 
-// Footer
+// footer
 
 .footer a {
   text-decoration: none;
@@ -105,4 +103,14 @@ a.card * {
 .footer a:hover {
   text-decoration: underline;
   color: $white;
+}
+
+// anchor offset
+
+a.anchor {
+    display: block;
+    position: relative;
+    // TODO recalculate for all device sizes
+    top: -80px;
+    visibility: hidden;
 }

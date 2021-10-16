@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Beckenboden-Check
+anchor:
+  link: beckenboden-check
+  title: Beckenboden Check
 ---
 
 ## Beckenboden-Check

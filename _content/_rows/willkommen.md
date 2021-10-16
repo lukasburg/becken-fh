@@ -1,8 +1,8 @@
 ---
-layout: index
-title: Home
 image: /assets/images/carine-264.jpg
-header: Herzlich Willkommen
+anchor:
+  link: willkommen
+  title: Willkommen
 ---
 
 ## Herzlich Willkommen

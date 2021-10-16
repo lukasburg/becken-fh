@@ -13,6 +13,18 @@ exclude:
   - beckenphysio.sublime-project
   - beckenphysio.sublime-workspace
 
+collections_dir: _content
+
 collections:
+  indikatoren:
   behandlungen:
-  home_blocks:
+  rows:
+    order:
+      - willkommen.md
+      - der-beckenboden.md
+      - indikatoren.html
+      - beckenboden-check.md
+      - behandlung.md
+      - behandlungen.html
+      - ueber-mich.md
+      - kontakt.md
