@@ -12,3 +12,7 @@ highligher: rouge
 exclude:
   - beckenphysio.sublime-project
   - beckenphysio.sublime-workspace
+
+collections:
+  behandlungen:
+  home_blocks:

@@ -1,7 +1,5 @@
 - name: Home
   link: /
-- name: Beckenboden
-  link: /beckenboden.html
 - name: Beckenboden-Check
   link: /beckenboden-check.html
 - name: Behandlungen

@@ -15,11 +15,11 @@ In ein ausführliches Gespräch (Anamnese) mache ich mir ein genaues Bild von Ih
 
 Manuelle Untersuchung 
 Nach vorheriger Aufklärung wird mit ihre Einverständnis der Beckenboden untersucht (intra-vaginale Palpation oder anorektale Palpation). Dabei untersuche ich Ihren Beckenboden ausführlich auf: 
-    • Ansteuerfähigkeit der Muskulatur sowie Kraft & Ausdauer 
-    • Entspannungs- und Koordinationsfähigkeit, evtl. links/rechts Dysbalance 
-    • Reaktionsbereitschaft beim Husten 
-    • Schmerz- und Triggerpunkte 
-    • die Position der Organe (Blase, Enddarm, Vagina oder Prostata)
+- Ansteuerfähigkeit der Muskulatur sowie Kraft & Ausdauer 
+- Entspannungs- und Koordinationsfähigkeit, evtl. links/rechts Dysbalance 
+- Reaktionsbereitschaft beim Husten 
+- Schmerz- und Triggerpunkte 
+- die Position der Organe (Blase, Enddarm, Vagina oder Prostata)
 Während der Untersuchung lernen Sie schon ihre Beckenboden bewusst wahrzunehmen und die Muskulatur effektiver anzusteuern (aktivieren und loslassen).
 
 Die Untersuchung findet in einem geschützten Raum im Liegen und danach im Stand unter Einfluss der Schwerkraft statt. 

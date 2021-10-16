@@ -1,3 +1,108 @@
+$color-violet-crayola: #7B7DDB;
+
+html {
+  scroll-behavior: smooth;
+}
+
+// Colors
+
 .current {
   color: green;
+}
+
+.color-violet-crayola {
+  color: $color-violet-crayola;
+}
+
+.background-violet-crayola {
+  background-color: $color-violet-crayola;
+}
+
+.color-white {
+  color: $white;
+}
+
+.background-white {
+  background-color: $white;
+}
+
+.background-fade-white {
+  background-image: linear-gradient($white, transparent);
+}
+
+// NAVBAR
+
+.navbar a {
+  color: inherit;
+}
+
+.navbar a.nav-link.active, {
+  color: $color-violet-crayola;
+}
+
+.navbar a.nav-link:hover {
+  color: $color-violet-crayola;
+  text-decoration: underline;
+}
+
+// BACKGROUND IMAGE FILLING FULL WIDTH
+
+.background-image {
+  overflow: hidden;
+  height: 300px;
+  position: relative;
+  text-align: center;
+}
+
+@include media-breakpoint-up(lg) {
+  .background-image {
+    height: 500px;
+  }
+}
+
+.background-image img {
+  width: 100%;
+}
+
+.background-image p, .background-image h1 {
+  color: $white;
+  position: absolute;
+  top: 50%;
+}
+
+// Lines
+
+hr {
+  border: 1px solid $color-violet-crayola;
+  border-radius: 10px;
+  width: 90% !important;
+}
+
+// Card links
+
+a.card {
+  text-decoration: inherit;
+  color: inherit;
+  transition: 0.3s;
+}
+
+a.card:hover {
+  background-color: rgba($color-violet-crayola, 0.3);
+}
+
+a.card * {
+  text-decoration: inherit;
+  color: inherit;
+}
+
+// Footer
+
+.footer a {
+  text-decoration: none;
+  color: $white;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+  color: $white;
 }

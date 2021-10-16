@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: behandlungen
 title: Behandlungen
+image: /assets/images/carine-264.jpg
+header: Behandlungen
 ---
 
 ## Behandlungen

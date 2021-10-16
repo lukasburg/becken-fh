@@ -12,13 +12,30 @@
     {% seo %}
   </head>
   <body>
-    <div class="alert alert-danger" role="alert">
-      Achtung, diese Website befindet sich noch in Bearbeitung und ist nicht für die Öffentlichkeit bestimmt. Wenn Sie nicht eingeladen wurden, verlassen Sie bitte diese Website.
-    </div>
     {% include navigation.html %}
-    <div class="container">
+
+    {% if page.header %}
+      <div class="">
+        <div class="row background-image">
+          <img src="{{ page.image }}">
+          <h1>{{ page.header }}</h1>
+        </div>
+      </div>
+    {% endif %}
+
+    {% if page.no_container %}
       {{ content }}
-    </div>
+    {% else %}
+      <div class="container">
+        <div class="row py-5">
+          <div class="col align-self-center">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    {% endif %}
+
+    {% include footer.html %}
 
     <script
       src="https://code.jquery.com/jquery-3.6.0.min.js"

@@ -1,13 +1,9 @@
 ---
 layout: index
 title: Home
+image: /assets/images/carine-264.jpg
+header: Herzlich Willkommen
 ---
-
-Foto (ich mit Beckenmodell)
-Carine Schippers
-Physiotherapeutin
-Heilpraktikerin für Physiotherapie
-Feldenkraislehrerin
 
 ## Herzlich Willkommen
 bei der Privatpraxis für Beckenboden Gesundheit Carine Schippers in Friedrichshagen.
@@ -17,5 +13,3 @@ Neben der Beckenboden-Physiotherapie bin ich natürlich auch eine erfahrene allg
 Meine Erfahrung hat mir gelernt, dass jeder Mensch eine individuelle Behandlung braucht und daher nehme ich mir die Zeit um nach eingehender Anamnese und Befunderhebung das gemeinsame Therapieziel zu erreichen.
 Ich bin Heilpraktikerin für Physiotherapie wodurch Sie mich auch ohne ärztliche Verordnung konsultieren können.
 Melden Sie sich gerne für eine persönliche Beratung oder mehr Informationen zu meiner Praxis.
-
-*Link Kontakt Aufnehmen*
