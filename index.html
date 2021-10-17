@@ -18,34 +18,40 @@ welcome_text: HERZLICH WILLKOMMEN
   <body>
     {% include navigation.html %}
 
-    <div class="">
-      <div class="row background-image">
-        <img src="/assets/images/carine-264.jpg">
-        <h1>{{ welcome_text }}</h1>
-      </div>
-    </div>
+    {% for row in site.rows %}
+      {% if row.big-foto %}
 
-    <div class="container">
-      {% for row in site.rows %}
+        <div class="row background-image align-content-center">
+          <img src="{{ row.image }}">
+          <h1>{{ row.content }}</h1>
+        </div>
+
+      {% else %}
+
         {% if row.anchor %}
           <a class="anchor" id="{{ row.anchor.link }}"></a>
         {% endif %}
-        <div class="row py-5">
-          <div class="col align-self-center">
-            {{ row.content }}
-          </div>
-          {% if row.image %}
-            <div class="col-lg-6 col-sm-12">
-              <img src="{{ row.image }}" class="img-fluid px-lg-5 pb-lg-4">
+        <div {% if row.background-colored %}class="background-colored"{% endif %}> 
+          <div class="container">
+            <div class="row py-5">
+              <div class="col align-self-center">
+                {{ row.content }}
+              </div>
+              {% if row.image %}
+                <div class="col-lg-6 col-sm-12">
+                  <img src="{{ row.image }}" class="img-fluid px-lg-5 pb-lg-4">
+                </div>
+              {% endif %}
             </div>
-          {% endif %}
+          </div>
         </div>
 
-        {% unless forloop.last %}
-          <div class="row justify-content-center py-2"><hr></div>
-        {% endunless %}
-      {% endfor %}
-    </div>
+      {% endif %}
+    {% endfor %}
+
+    {% comment %} Modal contents at the bottom to be sure there positioned right {% endcomment %}
+    {% include modals.html modals=site.indikatoren %}
+    {% include modals.html modals=site.behandlungen %}
 
     {% include footer.html %}
 

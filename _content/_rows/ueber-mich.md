@@ -2,7 +2,7 @@
 anchor:
   link: ueber-mich
   title: Über mich
-image: /assets/images/carine-264.jpg
+image: /assets/images/carine-94.jpg
 ---
 
 ## Über mich

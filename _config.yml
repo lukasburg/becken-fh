@@ -12,6 +12,8 @@ highligher: rouge
 exclude:
   - beckenphysio.sublime-project
   - beckenphysio.sublime-workspace
+  - Gemfile
+  - Gemfile.lock
 
 collections_dir: _content
 
@@ -20,10 +22,12 @@ collections:
   behandlungen:
   rows:
     order:
+      - top-foto.html
       - willkommen.md
       - der-beckenboden.md
       - indikatoren.html
       - beckenboden-check.md
+      - massage.html
       - behandlung.md
       - behandlungen.html
       - ueber-mich.md

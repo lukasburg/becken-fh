@@ -1,7 +1,7 @@
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
   {% for item in include.blocks %}
     <div class="col">
-      <a href="{{ item.link }}" class="card">
+      <a class="card" data-bs-toggle="modal" data-bs-target="#{{ item.modal-link }}">
         <div class="card-header">{{ item.title }}</div>
         <div class="card-body">
           <p class="card-text">{{ item.preface }}</p>

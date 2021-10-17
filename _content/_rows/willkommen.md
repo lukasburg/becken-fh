@@ -1,8 +1,8 @@
 ---
-image: /assets/images/carine-264.jpg
 anchor:
   link: willkommen
   title: Willkommen
+line-bottom: true
 ---
 
 ## Herzlich Willkommen

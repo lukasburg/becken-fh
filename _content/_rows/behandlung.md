@@ -2,7 +2,7 @@
 anchor:
   link: behandlungen
   title: Behandlungen
-image: /assets/images/carine-264.jpg
+background-colored: false
 ---
 
 ## Behandlungen

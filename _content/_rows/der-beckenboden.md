@@ -1,5 +1,5 @@
 ---
-image: /assets/images/carine-264.jpg
+image: /assets/images/carine-407.jpg
 ---
 
 ### Der Beckenboden

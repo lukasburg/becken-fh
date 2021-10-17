@@ -28,6 +28,10 @@ html {
   background-image: linear-gradient($white, transparent);
 }
 
+.background-colored {
+  background-color: $color-violet-crayola;
+}
+
 // navbar
 
 .navbar a {
@@ -97,12 +101,12 @@ a.card * {
 
 .footer a {
   text-decoration: none;
-  color: $white;
+  color: $black;
 }
 
 .footer a:hover {
   text-decoration: underline;
-  color: $white;
+  color: $color-violet-crayola;
 }
 
 // anchor offset
