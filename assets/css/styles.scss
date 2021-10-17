@@ -1,16 +1,22 @@
 ---
+
 ---
 
-$color-violet-crayola: #7B7DDB;
+// #8397cb
+// #a7aebe
+
+$color-background: #b2bacd;
+$color-foreground: #b2bacd;
+$color-dark-foreground: darken($color-foreground, 40%);
 
 $navbar-light-color: black;
-$navbar-light-hover-color: rgba($color-violet-crayola, .7);
-$navbar-light-active-color: rgba($color-violet-crayola, 1);
-$navbar-light-disabled-color: rgba($color-violet-crayola, .3);
-$navbar-light-toggler-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$color-violet-crayola}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
-$navbar-light-toggler-border-color: rgba(black, .5);
+$navbar-light-hover-color: rgba($color-foreground, .7);
+$navbar-light-active-color: rgba($color-foreground, 1);
+$navbar-light-disabled-color: rgba($color-background, 1);
+$navbar-light-toggler-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$color-foreground}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+$navbar-light-toggler-border-color: rgba($color-background, 1);
 
-$navbar-light-brand-color: $navbar-light-active-color;
+$navbar-light-brand-color: $color-dark-foreground;
 $navbar-light-brand-hover-color: $navbar-light-active-color;
 
 @import "/var/lib/gems/2.5.0/gems/bootstrap-5.1.0/assets/stylesheets/_bootstrap.scss";

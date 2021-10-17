@@ -5,11 +5,20 @@ anchor:
 line-bottom: true
 ---
 
-## Herzlich Willkommen
-bei der Privatpraxis für Beckenboden Gesundheit Carine Schippers in Friedrichshagen.
-Ich bin eine auf Beckenboden-Gesundheit spezialisierte Physiotherapeutin mit langjährige Erfahrung. Mein Therapieangebot umfasst einen individuellen, umfassenden und ganzheitlichen Behandlungsansatz für Frauen und Männer. 
-Ich freue mich sehr jetzt der Beckenbodentherapie in Friedrichshagen anbieten zu können. 
-Neben der Beckenboden-Physiotherapie bin ich natürlich auch eine erfahrene allgemein Physiotherapeutin und können Sie mir mit alle Beschwerden im Bereich des Bewegungsapparat konsultieren. 
-Meine Erfahrung hat mir gelernt, dass jeder Mensch eine individuelle Behandlung braucht und daher nehme ich mir die Zeit um nach eingehender Anamnese und Befunderhebung das gemeinsame Therapieziel zu erreichen.
+### Herzlich Willkommen
+Herzlich Willkommen
+bei der Privatpraxis für Physiotherapie & Beckenboden-Gesundheit in Friedrichshagen.
+
+Ich bin eine auf Beckenboden-Gesundheit spezialisierte Physiotherapeutin mit langjährige Erfahrung. Mein Therapieangebot umfasst einen individuellen und ganzheitlichen Behandlungsansatz für Frauen und Männer.
+Ich freue mich sehr der Beckenbodentherapie jetzt in Friedrichshagen anbieten zu können.
+
+Neben der Beckenboden bin ich natürlich auch eine erfahrene allgemein Physiotherapeutin mit viele verschiedene Weiterbildungen und können Sie mir mit alle Beschwerden im Bereich des Bewegungsapparat konsultieren.
+
 Ich bin Heilpraktikerin für Physiotherapie wodurch Sie mich auch ohne ärztliche Verordnung konsultieren können.
-Melden Sie sich gerne für eine persönliche Beratung oder mehr Informationen zu meiner Praxis.
+
+Ich würde mich sehr freuen, Sie bald persönlich in der Praxis begrüßen zu dürfen.
+Melden Sie sich gerne für eine persönliche Beratung oder mehr Informationen.
+
+Carine Schippers
+
+<div>{% include kontakt-link.html %}</div>

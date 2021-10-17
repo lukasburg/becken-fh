@@ -18,7 +18,7 @@ exclude:
 collections_dir: _content
 
 collections:
-  indikatoren:
+  indikationen:
   behandlungen:
   rows:
     order:

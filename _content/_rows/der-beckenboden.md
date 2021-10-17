@@ -1,11 +1,11 @@
 ---
-image: /assets/images/carine-407.jpg
+image:
+  file: /assets/images/carine-407.jpg
+  width: 6
 ---
 
-### Der Beckenboden
+### Beckenboden Gesundheit
 
-Der Beckenboden ist ganz wichtig. Sehr wichtig sogar.
+Beckenbodengesundheit umfasst das Wohlbefinden des gesamten Beckens, nicht nur des Beckenbodens, sondern auch der Organe (Blase, Gebärmutter/ Prostata und Enddarm), der Bänder, Faszien, Nerven und umliegenden Gelenken und Muskeln.
 
-At rerum dolor quis corporis dolor modi et qui. Modi sequi ut deleniti voluptates qui fuga vel perspiciatis. Ipsam aut voluptatem sint. Porro et qui rem iure. Quibusdam et consequatur est fugiat beatae sed. Fugiat labore vitae omnis quasi nostrum libero.
-
-At rerum dolor quis corporis dolor modi et qui. Modi sequi ut deleniti voluptates qui fuga vel perspiciatis. Ipsam aut voluptatem sint. Porro et qui rem iure. Quibusdam et consequatur est fugiat beatae sed. Fugiat labore vitae omnis quasi nostrum libero.
+Der Beckenboden bildet mit unserer tiefen Bauchmuskulatur, dem Zwerchfell und unserer   Rückenmuskulatur den Körperkern - das stabilisierende Core-System. Das gute Funktionieren dieses gesamte System ist wichtig für ihre Beckenboden Gesundheit.

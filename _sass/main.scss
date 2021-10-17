@@ -1,5 +1,6 @@
 html {
   scroll-behavior: smooth;
+  // background-color: white;
 }
 
 // colors
@@ -8,13 +9,17 @@ html {
   color: green;
 }
 
-.color-violet-crayola {
-  color: $color-violet-crayola;
+.color-foreground {
+  color: $color-foreground;
 }
 
-.background-violet-crayola {
-  background-color: $color-violet-crayola;
+.color-dark-foreground {
+  color: $color-dark-foreground;
 }
+
+// .background-violet-crayola {
+//   background-color: $color-violet-crayola;
+// }
 
 .color-white {
   color: $white;
@@ -28,23 +33,36 @@ html {
   background-image: linear-gradient($white, transparent);
 }
 
+.background-strong-colored {
+  background-color: $color-foreground;
+}
+
+.background-dark-colored h3 {
+  color: white;
+}
+
+.background-dark-colored {
+  background-color: $color-dark-foreground;
+}
+
 .background-colored {
-  background-color: $color-violet-crayola;
+  background-color: $color-background;
 }
 
 // navbar
 
 .navbar a {
-  color: inherit;
+  text-decoration: none;
+  transition: all 0.25s ease-in-out;
+  border-bottom: 1px solid transparent;
 }
 
-.navbar a.nav-link.active, {
-  color: $color-violet-crayola;
-}
+// .navbar a.nav-link.active, {
+//   color: $color-foreground;
+// }
 
 .navbar a.nav-link:hover {
-  color: $color-violet-crayola;
-  text-decoration: underline;
+  border-color: $color-background;
 }
 
 // full width background image
@@ -58,27 +76,36 @@ html {
 
 @include media-breakpoint-up(lg) {
   .background-image {
-    height: 500px;
+    height: 700px;
   }
 }
 
-.background-image img {
+.background-image .blur {
+  z-index: -1;
+
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
   width: 100%;
+  color: $white;
+  position: absolute;
+  // top: 50%;
 }
 
 .background-image p, .background-image h1 {
-  color: $white;
+  color: $color-dark-foreground;
   position: absolute;
-  top: 50%;
+  top: 20%;
+  right: 30%;
 }
 
-// horizontal lines
+// // horizontal lines
 
-hr {
-  border: 1px solid $color-violet-crayola;
-  border-radius: 10px;
-  width: 90% !important;
-}
+// hr {
+//   border: 1px solid $color-violet-crayola;
+//   border-radius: 10px;
+//   width: 90% !important;
+// }
 
 // card links
 
@@ -86,10 +113,11 @@ a.card {
   text-decoration: inherit;
   color: inherit;
   transition: 0.3s;
+  cursor: pointer;
 }
 
 a.card:hover {
-  background-color: rgba($color-violet-crayola, 0.3);
+  background-color: darken($color-background, 50%);
 }
 
 a.card * {
@@ -106,7 +134,7 @@ a.card * {
 
 .footer a:hover {
   text-decoration: underline;
-  color: $color-violet-crayola;
+  color: $color-foreground;
 }
 
 // anchor offset
@@ -117,4 +145,25 @@ a.anchor {
     // TODO recalculate for all device sizes
     top: -80px;
     visibility: hidden;
+}
+
+// icon
+
+.icon-center {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.kontakt-link {
+  text-decoration: underline;
+  color: $color-dark-foreground;
+  transition: all 0.25s ease-in-out;
+}
+
+.background-dark-colored .kontakt-link {
+  color: white;
+}
+
+.kontakt-link:hover {
+  color: black;
 }
