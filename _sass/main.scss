@@ -1,6 +1,13 @@
+h1, h2, h3,
+h4, h5, h6,
+p {
+    @extend %text !optional;
+}
+
+
+
 html {
   scroll-behavior: smooth;
-  // background-color: white;
 }
 
 // colors
@@ -16,10 +23,6 @@ html {
 .color-dark-foreground {
   color: $color-dark-foreground;
 }
-
-// .background-violet-crayola {
-//   background-color: $color-violet-crayola;
-// }
 
 .color-white {
   color: $white;
@@ -37,7 +40,7 @@ html {
   background-color: $color-foreground;
 }
 
-.background-dark-colored h3 {
+.background-dark-colored %text {
   color: white;
 }
 
@@ -57,10 +60,6 @@ html {
   border-bottom: 1px solid transparent;
 }
 
-// .navbar a.nav-link.active, {
-//   color: $color-foreground;
-// }
-
 .navbar a.nav-link:hover {
   border-color: $color-background;
 }
@@ -69,15 +68,19 @@ html {
 
 .background-image {
   overflow: hidden;
-  height: 300px;
+  max-height: 300px;
   position: relative;
   text-align: center;
 }
 
 @include media-breakpoint-up(lg) {
   .background-image {
-    height: 700px;
+    max-height: 700px;
   }
+}
+
+.background-image .full-height {
+  max-height: inherit;
 }
 
 .background-image .blur {
@@ -98,14 +101,6 @@ html {
   top: 20%;
   right: 30%;
 }
-
-// // horizontal lines
-
-// hr {
-//   border: 1px solid $color-violet-crayola;
-//   border-radius: 10px;
-//   width: 90% !important;
-// }
 
 // card links
 
@@ -144,6 +139,14 @@ a.anchor {
     position: relative;
     // TODO recalculate for all device sizes
     top: -80px;
+    visibility: hidden;
+}
+
+a.high-anchor {
+    display: block;
+    position: relative;
+    // TODO recalculate for all device sizes
+    top: -150px;
     visibility: hidden;
 }
 
