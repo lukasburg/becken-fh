@@ -1,6 +1,7 @@
 <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5 pb-5">
   {% for item in include.blocks %}
     <div class="col">
+      {% if item.anchor %}<a id="{{ item.anchor.link }}" class="high-anchor"></a>{% endif %}
       <a class="card h-100 background-strong-colored" data-bs-toggle="modal" data-bs-target="#{{ item.modal-link }}">
         <div class="card-body px-4">
           <h5 class="card-title pb-2 text-center">{{ item.title }}</h5>

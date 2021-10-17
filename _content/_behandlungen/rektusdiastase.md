@@ -3,6 +3,9 @@ title: Rektusdiastase
 preface: |
   Wenn Sie mehr über diese Behandlung erfahren wollen, klicken Sie hier.
 
+anchor:
+  link: rektusdiastase-anchor
+
 modal-link: rektusdiastase
 ---
 
