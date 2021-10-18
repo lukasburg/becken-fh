@@ -1,28 +1,19 @@
 h1, h2, h3,
 h4, h5, h6,
-p {
+p, li {
     @extend %text !optional;
 }
 
-
+// debug
+// * {
+//   outline: 1px solid #f00 !important;
+// }
 
 html {
   scroll-behavior: smooth;
 }
 
 // colors
-
-.current {
-  color: green;
-}
-
-.color-foreground {
-  color: $color-foreground;
-}
-
-.color-dark-foreground {
-  color: $color-dark-foreground;
-}
 
 .color-white {
   color: $white;
@@ -36,20 +27,16 @@ html {
   background-image: linear-gradient($white, transparent);
 }
 
-.background-strong-colored {
-  background-color: $color-foreground;
+.background-blue-crayola {
+  background-color: $blue-crayola;
 }
 
-.background-dark-colored %text {
+.background-dark-crayola {
+  background-color: $dark-blue-crayola;
+}
+
+.background-dark-crayola %text {
   color: white;
-}
-
-.background-dark-colored {
-  background-color: $color-dark-foreground;
-}
-
-.background-colored {
-  background-color: $color-background;
 }
 
 // navbar
@@ -60,8 +47,8 @@ html {
   border-bottom: 1px solid transparent;
 }
 
-.navbar a.nav-link:hover {
-  border-color: $color-background;
+.navbar a:hover{
+  border-color: $navbar-light-hover-color;
 }
 
 // full width background image
@@ -95,14 +82,14 @@ html {
   // top: 50%;
 }
 
-.background-image p, .background-image h1 {
-  color: $color-dark-foreground;
+.background-image %text {
+  color: $dark-blue-crayola;
   position: absolute;
   top: 20%;
   right: 30%;
 }
 
-// card links
+// cards
 
 a.card {
   text-decoration: inherit;
@@ -112,12 +99,26 @@ a.card {
 }
 
 a.card:hover {
-  background-color: darken($color-background, 50%);
+  background-color: $bright-blue-crayola;
 }
 
 a.card * {
   text-decoration: inherit;
   color: inherit;
+}
+
+// card blink
+@keyframes blink-animation {
+  0%   {background-color: $blue-crayola;}
+  25%  {background-color: $white;}
+  50%  {background-color: $blue-crayola;}
+  75% {background-color: $white;}
+  100% {background-color: $blue-crayola;}
+}
+
+.blink {
+  animation-name: blink-animation;
+  animation-duration: 3s;
 }
 
 // footer
@@ -129,7 +130,7 @@ a.card * {
 
 .footer a:hover {
   text-decoration: underline;
-  color: $color-foreground;
+  color: $blue-crayola;
 }
 
 // anchor offset
@@ -157,13 +158,15 @@ a.high-anchor {
   display: inline-block;
 }
 
+// kontakt
+
 .kontakt-link {
   text-decoration: underline;
-  color: $color-dark-foreground;
+  color: $dark-blue-crayola;
   transition: all 0.25s ease-in-out;
 }
 
-.background-dark-colored .kontakt-link {
+.background-dark-crayola .kontakt-link {
   color: white;
 }
 
