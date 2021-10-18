@@ -16,7 +16,9 @@ Die Tastuntersuchung wird nur manuell (d.h. mit einem behandschuhten Finger) ohn
 
 Bei Männer erfolgt die manuelle Untersuchung der Beckenboden rektal. Bei Frauen findet nur bei Bedarf eine rektale Untersuchung statt.
 
-Zusätzlich zum Beckenboden untersuche ich auch die **Funktion der Bauchmuskulatur** und erfolgt nach einer Schwangerschaft eine Kontrolle nach eine mögliche {% include link.html text="Rektusdiastase" href="#rektusdiastase-anchor" %}.
+{% capture link %}{% include link.html text="Rektusdiastase" href="#rektusdiastase-anchor" blink="rektusdiastase-box" %}{% endcapture %}
+
+Zusätzlich zum Beckenboden untersuche ich auch die **Funktion der Bauchmuskulatur** und erfolgt nach einer Schwangerschaft eine Kontrolle nach eine mögliche {{ link | strip_newlines }}.
 
 ##### Auswertung & Beratung
 Nach Abschluss der Untersuchung haben wir ein gutes Bild von der Funktion des Beckenbodens, der Bauch und die Stand der Beckenorganen. 
