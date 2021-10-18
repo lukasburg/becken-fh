@@ -24,6 +24,7 @@ collections:
     order:
       - top-foto.html
       - willkommen.md
+      - aktuelles.html
       - der-beckenboden.md
       - indikationen.html
       - beckenboden-check.md
@@ -32,3 +33,5 @@ collections:
       - behandlungen.html
       - ueber-mich.md
       - kontakt.html
+
+permalink: /:title
