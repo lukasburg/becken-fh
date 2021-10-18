@@ -1,0 +1,17 @@
+// $blue-crayola: #b2bacd;
+// $dark-blue-crayola: darken($blue-crayola, 40%);  // currently #46526d
+// $bright-blue-crayola: lighten($blue-crayola, 20%);
+
+$blue-crayola: #b2bacd;
+$dark-blue-crayola: darken($blue-crayola, 35%);  // currently #46526d
+$bright-blue-crayola: lighten($blue-crayola, 20%);
+
+$navbar-light-color: black;
+$navbar-light-hover-color: $blue-crayola;
+$navbar-light-active-color: $blue-crayola;
+$navbar-light-disabled-color: $bright-blue-crayola;
+$navbar-light-toggler-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$dark-blue-crayola}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+$navbar-light-toggler-border-color: $dark-blue-crayola;
+
+$navbar-light-brand-color: $blue-crayola;
+$navbar-light-brand-hover-color: $navbar-light-hover-color;

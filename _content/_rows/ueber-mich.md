@@ -7,6 +7,8 @@ image:
   width: 4
 ---
 
+{% capture link %}{% include link.html text="Feldenkrais-Webseite" href="http://www.feldenkrais-friedrichshagen.de" %}{% endcapture %}
+
 ## Über mich
 
 Nach viele Jahren als allgemein Physiotherapeutin in Geburtsland die Niederlande gearbeitet zu haben, habe ich dort in 1997 die Spezialisierung Becken-Physiotherapeutin absolviert und habe Patient\*innen mit Beckenbodenproblemen behandelt, sowohl individuell als in Gruppen.
@@ -17,7 +19,7 @@ Nach meinem Umzug nach Deutschland in 2002 habe ich, nach viele verschiedenen an
 
 Neben der Beckenboden bin ich eine erfahrene allgemein Physiotherapeutin mit viele verschiedene Weiterbildungen und können Sie mir mit alle Beschwerden im Bereich des Bewegungsapparat konsultieren. Schauen Sie nach meine Qualifikationen  Lebenslauf
 
-Außerdem bin ich zertifizierte Feldenkraislehrerin. Die Feldenkrais Arbeit hat mir eine große Fülle an aktive Behandlungsansätzen zur Verfügung gestellt wo sie als Patient\*in von profitieren könnten. Für das Angebot schauen sie auf meine {% include link.html text="Feldenkrais-Webseite" href="https://www.feldenkrais-friedrichshagen.de" %}
+Außerdem bin ich zertifizierte Feldenkraislehrerin. Die Feldenkrais Arbeit hat mir eine große Fülle an aktive Behandlungsansätzen zur Verfügung gestellt wo sie als Patient\*in von profitieren könnten. Für das Angebot schauen sie auf meine {{ link | strip_newlines }}.
 
 Ich habe die Erlaubnis als Heilpraktikerin „beschränkt auf das Gebiet der Physiotherapeutin“, zu arbeiten, wodurch ich Sie ohne Arztverordnung behandeln darf.
 
