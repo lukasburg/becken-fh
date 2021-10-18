@@ -1,1 +1,1 @@
-<a class="kontakt-link" href="{{ include.href }}">{{ include.text }}</a>
+<a class="kontakt-link" href="{{ include.href }}" onclick="{% if include.blink %}blinkBox('{{ include.blink }}'){% else %}closeModal(){% endif %}">{{ include.text }}</a>

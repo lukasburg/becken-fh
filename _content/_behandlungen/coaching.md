@@ -10,4 +10,4 @@ Ich unterstütze Sie gerne und erarbeite mit Ihnen gemeinsam Ihr persönliches K
 
 Im Anamnesegespräch und Physiotherapeutische Untersuchung & Diagnose wird ermittelt was Sie als Klient brauchen, und werde ich mir auf Ihre persönlichen Bedürfnisse abstimmen. Durch meine Kenntnisse aus der Feldenkraismethode hat sich meine Fülle an Bewegungsübungen sehr bereichert.
 
-Wenn gewünscht können sie auch eine individuelle Feldenkrais Bewegungssitzung bei mir buchen -> {% include link.html text="feldenkrais-friedrichshagen.de" href="https://www.feldenkrais-friedrichshagen.de" %}
+Wenn gewünscht können sie auch eine individuelle Feldenkrais Bewegungssitzung bei mir buchen -> {% include link.html text="feldenkrais-friedrichshagen.de" href="http://www.feldenkrais-friedrichshagen.de" %}

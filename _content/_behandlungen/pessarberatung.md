@@ -4,6 +4,9 @@ preface: |
   Wenn Sie mehr über diese Behandlung erfahren wollen, klicken Sie hier.
 
 modal-link: pessarberatung
+
+anchor:
+  link: pessarberatung-anchor
 ---
 
 Vaginalpessare sind medizinische Hilfsmittel, die bei verschiedene Beckenbeschwerden eingesetzt werden können:
