@@ -4,7 +4,7 @@ anchor:
   title: Über mich
 image: 
   file: /assets/images/carine-94.jpg
-  width: 4
+  width: col-lg-4
 ---
 
 {% capture link %}{% include link.html text="Feldenkrais-Webseite" href="http://www.feldenkrais-friedrichshagen.de" %}{% endcapture %}

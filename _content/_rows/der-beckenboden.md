@@ -1,7 +1,7 @@
 ---
 image:
   file: /assets/images/carine-407.jpg
-  width: 6
+  width: col-lg-4 col-md-5
 ---
 
 ### Beckenboden Gesundheit

@@ -47,7 +47,7 @@ html {
   border-bottom: 1px solid transparent;
 }
 
-.navbar a:hover{
+.navbar a.nav-link:hover {
   border-color: $navbar-light-hover-color;
 }
 

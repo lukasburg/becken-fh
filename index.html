@@ -22,8 +22,8 @@ layout: default
               {{ row.content }}
             </div>
             {% if row.image %}
-              <div class="col-lg-{{ row.image.width }} col-sm-12">
-                <img src="{{ row.image.file }}" class="img-fluid pl-lg-5 pl-md-5 pb-lg-4">
+              <div class="{{ row.image.width }} col-sm-12 py-lg-0 px-md-0 px-5 py-3">
+                <img src="{{ row.image.file }}" class="img-fluid ps-lg-5 ps-md-4 pb-lg-4">
               </div>
             {% endif %}
           </div>
@@ -36,8 +36,8 @@ layout: default
           <div class="col">
             {% capture beckenpreface %}{% include beckenboden-preface.md %}{% endcapture %}{{ beckenpreface | markdownify }}
           </div>
-          <div class="col-lg-{{ row.image.width }} col-sm-12">
-            <img src="{{ row.image.file }}" class="img-fluid pl-lg-5 pl-md-5 pb-lg-4">
+          <div class="{{ row.image.width }} col-sm-12 py-lg-0 px-md-0 px-5 pt-3 pb-5">
+            <img src="{{ row.image.file }}" class="img-fluid ps-xl-5 ps-lg-4 pb-lg-4 px-md-5">
           </div>
         </div>
         <div class="row">

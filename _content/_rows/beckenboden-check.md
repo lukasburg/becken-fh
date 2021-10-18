@@ -5,7 +5,7 @@ anchor:
   title: Beckenboden Check
 image: 
   file: /assets/images/carine-407.jpg
-  width: 4
+  width: col-lg-5
 ---
 
 ##### Manuelle Untersuchung
