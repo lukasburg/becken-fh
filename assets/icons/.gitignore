@@ -1,9 +1,2 @@
-*
+/_ignore
 
-!.gitignore
-
-!wind.svg
-!envelope.svg
-!globe.svg
-!telephone.svg
-!bootstrap-icons.scss
