@@ -31,11 +31,11 @@ Wenn Sie Fragen haben, melden Sie sich gerne.
 
 ##### Wann ist einen Beckenboden-Check sinnvoll?
 
-• 6-8 Wochen nach der Geburt: vor der Rückbildungskurs oder vor dem sportlichen (Wieder-)Einstieg – vor allem bei intensiven Sportarten
-• vor und 6-8 Wochen nach Operationen im Beckenbereich (Prostatectomie, TUV, Senkungs OP) 
-• bei Inkontinenz von Harn, Wind oder Stuhl, bei Senkungsbeschwerden
-• bei Schmerzen in Beckenboden, Bauch, oder Rücken
-• auf Empfehlung ihres Arztes
+- 6-8 Wochen nach der Geburt: vor der Rückbildungskurs oder vor dem sportlichen (Wieder-)Einstieg – vor allem bei intensiven Sportarten
+- vor und 6-8 Wochen nach Operationen im Beckenbereich (Prostatectomie, TUV, Senkungs OP) 
+- bei Inkontinenz von Harn, Wind oder Stuhl, bei Senkungsbeschwerden
+- bei Schmerzen in Beckenboden, Bauch, oder Rücken
+- auf Empfehlung ihres Arztes
 
 ##### Was ist der Unterschied zur Untersuchung beim Gynäkologen?
 Die gynäkologische Untersuchung zielt in erster Linie darauf ab, die Strukturen auf Pathologien zu untersuchen, also z.B. sicherzustellen, dass die Gebärmutter normal zurückgebildet ist, ob keine Entzündungen vorliegen. Die Funktionsuntersuchung des Beckenbodens ist sehr aufwendig und gehört in der Regel nicht zur Standarduntersuchung beim Gynäkologen.
