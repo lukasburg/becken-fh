@@ -10,7 +10,7 @@ Herzlich Willkommen
 bei der Privatpraxis für Physiotherapie & Beckenboden-Gesundheit in Friedrichshagen.
 
 Ich bin eine auf Beckenboden-Gesundheit spezialisierte Physiotherapeutin mit langjährige Erfahrung. Mein Therapieangebot umfasst einen individuellen und ganzheitlichen Behandlungsansatz für Frauen und Männer.
-Ich freue mich sehr der Beckenbodentherapie jetzt in Friedrichshagen anbieten zu können.
+Ich freue mich sehr die Beckenbodentherapie jetzt in Friedrichshagen anbieten zu können.
 
 Neben der Beckenboden bin ich natürlich auch eine erfahrene allgemein Physiotherapeutin mit viele verschiedene Weiterbildungen und können Sie mir mit alle Beschwerden im Bereich des Bewegungsapparat konsultieren.
 
