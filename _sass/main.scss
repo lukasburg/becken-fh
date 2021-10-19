@@ -13,6 +13,11 @@ html {
   scroll-behavior: smooth;
 }
 
+body {
+  // for scrollspy
+  position: relative;
+}
+
 // colors
 
 .color-white {
@@ -138,7 +143,6 @@ a.card * {
 a.anchor {
     display: block;
     position: relative;
-    // TODO recalculate for all device sizes
     top: -80px;
     visibility: hidden;
 }
@@ -146,7 +150,6 @@ a.anchor {
 a.high-anchor {
     display: block;
     position: relative;
-    // TODO recalculate for all device sizes
     top: -150px;
     visibility: hidden;
 }
