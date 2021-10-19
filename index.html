@@ -12,7 +12,7 @@ layout: default
   {% else %}
 
     {% if row.anchor %}
-      <a class="anchor" id="{{ row.anchor.link }}"></a>
+      <div class="anchor" id="{{ row.anchor.link }}"></div>
     {% endif %}
 
     {% unless row.beckencheck-layout %}
@@ -55,4 +55,4 @@ layout: default
 
 {% comment %} Modal contents at the bottom to be sure there positioned right {% endcomment %}
 {% include modals.html modals=site.indikationen %}
-{% include modals.html modals=site.behandlungen %}
+{% include modals.html modals=site.behandlungen preise=true %}
