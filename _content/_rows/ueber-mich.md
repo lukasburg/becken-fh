@@ -11,9 +11,9 @@ image:
 
 ## Über mich
 
-Nach viele Jahren als allgemein Physiotherapeutin in Geburtsland die Niederlande gearbeitet zu haben, habe ich dort in 1997 die Spezialisierung Becken-Physiotherapeutin absolviert und habe Patient\*innen mit Beckenbodenproblemen behandelt, sowohl individuell als in Gruppen.
+Nachdem ich viele Jahre als allgemein Physiotherapeutin in meinem Geburtsland, der Niederlande gearbeitet habe, absolvierte ich dort in 1997 die Spezialisierung Becken-Physiotherapeutin und habe Patient\*innen mit Beckenbodenproblemen sowohl,individuell als auch in Gruppen, behandelt.
 
-Die Arbeit in der Beckenboden-Bereich habe ich immer mit viel Freunde gemacht. Hier kommt vieles zusammen was ich immer wichtig gefunden habe in der Behandlung von Patient\*innen: Körperwahrnehmung, dynamische Haltung, Balance zwischen Kraft und Entspannung, Information und bewusst machen der psychisch-emotionale Zusammenhänge.
+Die Arbeit in dem Beckenboden-Bereich habe ich immer mit viel Freunde gemacht. Hier kommt Vieles zusammen was ich immer wichtig gefunden habe in der Behandlung von Patient\*innen: Körperwahrnehmung, dynamische Haltung, Balance zwischen Kraft und Entspannung, Information und bewusst machen der psychisch-emotionale Zusammenhänge.
 
 Nach meinem Umzug nach Deutschland in 2002 habe ich, nach viele verschiedenen andere Tätigkeiten, in 2013 bewusst nach eine Stelle in einem spezialisierte Beckenboden Praxis  gesucht und gefunden! Hier war ich bis 2021 arbeitstätig. 
 
