@@ -8,4 +8,4 @@ image:
 
 Beckenbodengesundheit umfasst das Wohlbefinden des gesamten Beckens, nicht nur des Beckenbodens, sondern auch der Organe (Blase, Gebärmutter/ Prostata und Enddarm), der Bänder, Faszien, Nerven und umliegenden Gelenken und Muskeln.
 
-Der Beckenboden bildet mit unserer tiefen Bauchmuskulatur, dem Zwerchfell und unserer   Rückenmuskulatur den Körperkern - das stabilisierende Core-System. Das gute Funktionieren dieses gesamte System ist wichtig für ihre Beckenboden Gesundheit.
+Der Beckenboden bildet mit unserer tiefen Bauchmuskulatur, dem Zwerchfell und unserer Rückenmuskulatur den Körperkern - das stabilisierende Core-System. Das gute Funktionieren dieses gesamte Systems ist wichtig für ihre Beckenboden Gesundheit.
