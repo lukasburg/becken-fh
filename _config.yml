@@ -19,6 +19,13 @@ collections_dir: _content
 
 collections:
   indikationen:
+    order:
+      - schwangerschaft.md
+      - inkontinenz.md
+      - beckenschmerzen.md
+      - maenner.md
+      - blasenbeschwerden.md
+      - senkungsbeschwerden.md
   behandlungen:
   rows:
     order:
