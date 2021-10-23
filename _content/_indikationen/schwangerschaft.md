@@ -1,9 +1,7 @@
 ---
 title: Schwangerschaft & Geburt
-# preface: |
-#   Sie sind schwanger und haben Schmerzen im Becken oder Rücken?
-#   Sie haben gerade ein Baby bekommen und ihr Beckenboden fühlt sich schwer an?
-#   Sie haben oder vermuten eine  Rektusdiastase?
+preface: |
+  Sie möchten die Funktion ihres Beckenbodens während der Schwangerschaft oder nach der Geburt trainieren? 
 
 modal-link: schwangerschaft
 ---
@@ -21,5 +19,5 @@ Wenn Sie unter Harninkontinenz leiden oder ständig Wasserlassen kann eine Berat
 *Sie haben gerade ein Baby bekommen und ihr Beckenboden fühlt sich schwer an? Sie haben oder vermuten eine {{ link | strip_newlines }}?*
 
 Für eine individuelle **Rückbildung** und zum Trainieren der Beckenbodenmuskeln können Sie mich gerne konsultieren.
-Weiterhin kann ich Ihnen bei Schwere- oder Schwächegefühl des Beckenbodens oder der Bauchmuskeln, beim Dammriss, bei Schließmuskelverletzungen, bei Rektusdiastase, Inkontinenz, Flatus vaginalis, oder bei Schmerzen helfen.
+Weiterhin kann ich Ihnen bei Schwere- oder Schwächegefühl des Beckenbodens oder der Bauchmuskeln, beim Dammriss, bei Schließmuskelverletzungen, bei Rektusdiastase, Inkontinenz, Flatus vaginalis, oder bei Schmerzen unterstützen.
 Außerdem berate ich Sie gerne beim Wiedereinstieg in sportliche Aktivitäten.

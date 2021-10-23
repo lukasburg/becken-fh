@@ -1,13 +1,15 @@
 ---
 title: Inkontinenz
-# preface: |
-#   Missing Missing Missing
+preface: |
+  Sie leiden unter unfreiwilligem Verlust von Harn, Wind oder Stuhl?
 
 modal-link: inkontinenz
 ---
 
 *Sie leiden unter unfreiwilligem Verlust von Harn, Wind oder Stuhl?*
 
-Bei Harninkontinenz unterscheidet man zwischen Belastungsinkontinenz (z.B. Harnverlust bei Husten, Heben oder Springen) und Dranginkontinenz, bei der ein sehr starker überfallartiger Drang auftritt.
-Inkontinenz von Stuhl beeinträchtigt sehr stark die Lebensqualität. Und kann auch bei junge Frauen nach der Geburt z.B. nach eine große Dammriss auftreten.
-Beckenbodenkräftigung wird häufig zur Behandlung von Inkontinenz angewandt. Blasentraining kann bei Dranginkontinenz eingesetzt werden 
+Inkontinenz kann in verschiedenen Lebensphasen auftreten.
+Häufig in den Wechseljahre oder aber bei jungen Frauen nach der Geburt zum Beispiel nach einem Dammriss.
+
+Ein gut funktionierender Beckenboden kann die Beschwerden mildern oder sogar heilen.
+Bei sehr schwacher Beckenbodenmuskulatur gibt es die Möglichkeit ein Elektrostimulationsgerät einzusetzen.

@@ -1,18 +1,18 @@
 {% for item in include.modals %}
   <!-- Modal -->
   <div class="modal fade" id="{{ item.modal-link }}" tabindex="-1" aria-labelledby="{{ item.title }}" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-md">
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="modal-title" id="exampleModalLabel">{{ item.title }}</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          <div class="row px-md-5 pt-md-5 pb-md-3">
+          <div class="row">
             {{ item.content }}
           </div>
           {% if include.preise %}
-            <div class="row border-top px-md-5 pt-md-5 pt-md-2 pb-md-5">
+            <div class="row border-top">
               <h5>Preise</h5>
               <div class="row justify-content-between pb-1">
                 <div class="col-auto">Erstkonsult nicht Beckenbodenbeschwerden à 60 min.</div>
