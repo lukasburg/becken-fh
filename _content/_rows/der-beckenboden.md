@@ -1,6 +1,6 @@
 ---
 image:
-  file: /assets/images/carine-407.jpg
+  file: /assets/images/carine-463.jpg
   width: col-lg-4 col-md-5
 ---
 

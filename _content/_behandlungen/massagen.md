@@ -7,8 +7,17 @@ modal-link: massagen
 ---
 
 ### Entspannungstherapie
-Meine Erfahrung als allgemein & Beckenboden Physiotherapeutin hat mich gelernt, dass das Großteil der Beschwerden und Schmerzen seine Ursache findet in eine zu große Stress und Anspannung, oft zusammen mit zu einseitig oder mangelnde Bewegung. Durch  das erlernen von Entspannung ist ein gesünderes Bewegen und Sporttreiben möglich.
-Ich kenne mich mit verschiedene Entspannungstechnicken wie Progressive Muskelentspannung (Jacobsen), Autogenes Training, Feldenkrais, Achtsamkeit und Atem aus. Wobei das Entspannen durch langsame, achtsame Bewegungen wie in Feldenkrais für die meiste Menschen am zugänglichste ist.
+Meine Erfahrung als Allgemein- und Beckenbodenphysiotherapeutin hat mich gelehrt, dass der Großteil der Beschwerden und Schmerzen seine Ursache in Stress und Anspannung findet.
+Oft gehen einseitig oder mangelnde Bewegung damit einher.
+
+Durch das Erlernen von Entspannung sind Sie in der Lage sich einfacher zu bewegen und gesünder Sport zu treiben.
+Verschiedenste Entspannungstechnicken kommen bei mir zum Einsatz:
+- Progressive Muskelentspannung (Jacobsen)
+- Autogenes Training
+- Feldenkrais
+- Achtsamkeit und Atem
 
 ### Massagen
-Bei Verspannungen und Schmerzen kann eine Massage wohltuend und lindernd sein. Ich biete Klassische Massagen (kräftig oder entspannend), Bindegewebsmassagen und Fußreflexmassagen an. Gönnen Sie sich eine wohltuende Massage!
+Bei Verspannungen und Schmerzen kann eine Massage wohltuend und lindernd sein.
+Ich biete klassische Massagen, Bindegewebsmassagen und Fußreflexmassagen an.
+Gönnen Sie sich eine wohltuende Massage!

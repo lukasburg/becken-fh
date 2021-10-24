@@ -15,40 +15,20 @@ layout: default
       <div class="anchor" id="{{ row.anchor.link }}"></div>
     {% endif %}
 
-    {% unless row.beckencheck-layout %}
-      <div {% if row.background-colored %}class="background-dark-crayola"{% endif %}> 
-        <div class="container">
-          <div class="row py-5">
-            <div class="col">
-              {{ row.content }}
-            </div>
-            {% if row.image %}
-              <div class="{{ row.image.width }} col-sm-12 py-lg-0 px-md-0 px-5 py-3">
-                <img src="{{ row.image.file }}" class="img-fluid ps-lg-5 ps-md-4 pb-lg-4">
-              </div>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    {% else %}
-
-      <div class="container py-5">
-        <div class="row">
-          <div class="col">
-            {% capture beckenpreface %}{% include beckenboden-preface.md %}{% endcapture %}{{ beckenpreface | markdownify }}
-          </div>
-          <div class="{{ row.image.width }} col-sm-12 py-lg-0 px-md-0 px-5 pt-3 pb-5">
-            <img src="{{ row.image.file }}" class="img-fluid ps-xl-5 ps-lg-4 pb-lg-4 px-md-5">
-          </div>
-        </div>
-        <div class="row">
+    <div {% if row.background-colored %}class="background-dark-crayola"{% endif %}> 
+      <div class="container">
+        <div class="row py-5">
           <div class="col">
             {{ row.content }}
           </div>
+          {% if row.image %}
+            <div class="{{ row.image.width }} col-sm-12 py-lg-0 px-md-0 px-5 py-3">
+              <img src="{{ row.image.file }}" class="img-fluid ps-lg-5 ps-md-4 pb-lg-4">
+            </div>
+          {% endif %}
         </div>
       </div>
-
-    {% endunless %}
+    </div>
 
   {% endif %}
 {% endfor %}

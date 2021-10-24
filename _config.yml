@@ -27,6 +27,13 @@ collections:
       - blasenbeschwerden.md
       - senkungsbeschwerden.md
   behandlungen:
+    order:
+      - einzeltherapie.md
+      - kleingruppen.md
+      - rektusdiastase.md
+      - coaching.md
+      - massagen.md
+      - preise.md
   rows:
     order:
       - top-foto.html

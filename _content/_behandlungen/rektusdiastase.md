@@ -9,8 +9,10 @@ anchor:
 modal-link: rektusdiastase
 ---
 
-In der Schwangerschaft dehnt sich die Bauchmuskulatur, um Platz für das Kind zu schaffen, das ist ganz normal und notwendig. Ist diese sehr ausgeprägt und/oder verändert sich nicht im Laufe der körpereigenen Rückbildung, sodass es einen tiefen, breiten und langen Spalt in der Mitte des Bauches gibt, ist es sinnvoll sich behandeln zu lassen.
+In der Schwangerschaft dehnt sich die Bauchmuskulatur, um Platz für das Kind zu schaffen.
+Das ist ganz normal und notwendig. Dabei entsteht ein Spalt in der Bauchmitte.
+Ist dieser sehr ausgeprägt oder findet keine körpereigene Rückbildung statt, ist es sinnvoll sich behandeln zu lassen.
 
-Für die Therapie der Rektusdiastase ist es wichtig, die innere Bauchmuskulatur ansteuern zu können und die Koordination der verschiedene stabilisierende Muskeln (der Core oder Tiefen Muskeln) zu erlernen. Dabei spielt auch das Zwerchfell und Atmung eine wichtige Rolle.  Durch das Erlernen der richtige Bauchmuskeln zu aktivieren, eine gute Körperhaltung und Gebrauchs ihres Körper beim Heben und Tragen, kann ich Ihnen begleiten, dass der Rektusdiastase sich langsam verbessert.
-
-Rückbildung ist ein langsamer Prozess, zu schnelle und falsches Training nach der Geburt können eine Rektusdiastase sogar befördern.
+Für die Therapie der Rektusdiastase ist es wichtig, die Koordination der inneren Bauchmuskulatur und anderer stabilisierender Muskeln zu erlernen.
+Dabei spielt auch das Zwerchfell und die Atmung eine wichtige Rolle.
+Rückbildung ist ein langsamer Prozess, zu schnelles und falsches Training nach der Geburt kann eine Rektusdiastase sogar befördern.
