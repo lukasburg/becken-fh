@@ -1,7 +1,7 @@
 ---
 title: Entspannungstherapie & Massage
 preface: |
-  Wenn Sie mehr über diese Behandlung erfahren wollen, klicken Sie hier.
+  Genießen Sie eine wohltuende Massage! Bei Verspannungen, Schmerzen oder zur Prävention.
 
 modal-link: massagen
 ---

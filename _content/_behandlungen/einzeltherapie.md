@@ -1,7 +1,7 @@
 ---
 title: Beckenbodentherapie
 preface: |
-  Wenn Sie mehr über diese Behandlung erfahren wollen, klicken Sie hier.
+  Ganzheitliche Therapie in vertrauensvoller Atmosphäre für Frauen & Männer.
 
 modal-link: einzeltherapie
 ---

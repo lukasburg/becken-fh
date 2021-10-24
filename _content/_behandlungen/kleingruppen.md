@@ -13,7 +13,7 @@ So bekommen Sie viele Stunden zu einem günstigen Preis.
 
 Ich empfehle Ihnen einen Beckenboden-Check vor Beginn der Gruppetherapie.
 
-Der Gruppenkurs besteht aus 5 Abenden à 75 min. und kostet 140€.
+Der Gruppenkurs besteht aus 5 Abenden à 75 min. und kostet 150€.
 
 Der Präventionskurs Beckenbodenschule (Präventionsgesetz §20) besteht aus 8 Abenden à 75 min.
 Er wird durch die meiste Krankenkassen finanziell unterstützt (in der Regel 70€).

@@ -1,7 +1,7 @@
 ---
 title: Rektusdiastase
 preface: |
-  Wenn Sie mehr über diese Behandlung erfahren wollen, klicken Sie hier.
+  Sie haben vor kurzem ihr Baby geboren und haben einen Spalt im Bindegewebe der Bauchmuskulatur?
 
 anchor:
   link: rektusdiastase-anchor

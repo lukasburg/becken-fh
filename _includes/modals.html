@@ -11,6 +11,7 @@
           <div class="row">
             {{ item.content }}
           </div>
+          {% comment %}
           {% if include.preise %}
             <div class="row border-top pt-3">
               <h5>Preise</h5>
@@ -28,6 +29,7 @@
               </div>
             </div>
           {% endif %}
+          {% endcomment %}
         </div>
       </div>
     </div>
