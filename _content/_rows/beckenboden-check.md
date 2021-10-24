@@ -4,8 +4,8 @@ anchor:
   link: beckenboden-check
   title: Beckenboden Check
 image: 
-  file: /assets/images/carine-407.jpg
-  width: col-lg-5 pt-5 mt-5
+  file: /assets/images/carine-392.jpg
+  width: col-lg-5 pt-lg-5 mt-lg-5
 ---
 
 <!-- TODO fix on mobile -->
