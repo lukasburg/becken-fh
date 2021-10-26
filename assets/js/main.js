@@ -1,5 +1,3 @@
-alert("Diese Website befindet sich noch in Bearbeitung. Bitte kommen Sie später nochmal wieder!\nWe are still building this page. Please return later.");
-
 $('.navbar-collapse a').click(function(){
   setTimeout(function(){
     $(".navbar-collapse").collapse('hide');
