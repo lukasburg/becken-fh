@@ -11,14 +11,14 @@ image:
 
 ## Über mich
 
-Nachdem ich viele Jahre als allgemeine Physiotherapeutin in meinem Geburtsland, der Niederlande, gearbeitet hatte, absolvierte ich dort 1997 die Spezialisierung zur Becken-Physiotherapeutin.
+Nachdem ich viele Jahre als allgemeine Physiotherapeutin in meinem Geburtsland, den Niederlanden, gearbeitet hatte, absolvierte ich dort 1997 die Spezialisierung zur Becken-Physiotherapeutin.
 Danach habe ich Patient\*innen mit Beckenbodenproblemen sowohl individuell als auch in Gruppen behandelt.
 
 Die Arbeit im Beckenboden-Bereich hat mir immer viel Freunde bereitet.
-Hier kommt Vieles zusammen, das mir während der Behandlung von Patient\*innen immer wichtig war:
-Körperwahrnehmung, dynamische Haltung, Balance zwischen Kraft und Entspannung, und die Zusammenhänge zwischen Psyche/Emotionen und Körper.
+Hier kommt vieles zusammen, was mir während der Behandlung von Patient\*innen immer wichtig war:
+Körperwahrnehmung, Balance zwischen Kraft und Entspannung, dynamische Haltung und die Zusammenhänge zwischen Psyche, Emotionen und Körper.
 
-Nachdem ich 2002 nach Deutschland umgezogen bin, habe ich nach verschiedenen andere Tätigkeiten 2013 eine Stelle in einer spezialisierten Beckenboden-Praxis gefunden.
+Nachdem ich 2002 nach Deutschland umgezogen bin, habe ich nach verschiedenen anderen Tätigkeiten 2013 eine Stelle in einer spezialisierten Beckenboden-Praxis gefunden.
 Hier habe ich bis 2021 gearbeitet.
 <!-- TODO: Warum aufgehört -->
 
@@ -27,8 +27,8 @@ Sie können mich mit allen Beschwerden im Bereich des Bewegungsapparates konsult
 <!-- TODO: Eine Listen finden SIe noch nicht -->
 <!-- Schauen Sie nach meine Qualifikationen  Lebenslauf -->
 
-Ich habe die Berechtigung als Heilpraktikerin „beschränkt auf das Gebiet der Physiotherapeutin“ zu arbeiten.
-Dadurch darf ich Sie ohne ärztliche Verordnung behandeln.
+Ich habe die Berechtigung als Heilpraktikerin für Physiotherapie zu arbeiten.
+Dadurch darf ich Sie auch ohne ärztliche Verordnung behandeln.
 
 Melden Sie sich gerne für eine persönliche Beratung oder mehr Informationen zu meiner Praxis.
 

@@ -18,11 +18,11 @@ layout: default
     <div {% if row.background-colored %}class="background-dark-crayola"{% endif %}> 
       <div class="container">
         <div class="row py-5">
-          <div class="col order-lg-1 order-sm-2">
+          <div class="col order-lg-1 order-2">
             {{ row.content }}
           </div>
           {% if row.image %}
-            <div class="{{ row.image.width }} col-sm-12 py-lg-0 px-md-0 px-5 pb-5 order-lg-2 order-sm-1">
+            <div class="{{ row.image.width }} col-sm-12 py-lg-0 px-md-0 px-5 pb-5 order-lg-2 order-1">
               <img src="{{ row.image.file }}" class="img-fluid ps-lg-5 ps-md-4 pb-lg-4">
             </div>
           {% endif %}

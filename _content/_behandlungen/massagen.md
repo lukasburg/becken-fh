@@ -11,7 +11,7 @@ Meine Erfahrung als Allgemein- und Beckenbodenphysiotherapeutin hat mich gelehrt
 Oft gehen einseitig oder mangelnde Bewegung damit einher.
 
 Durch das Erlernen von Entspannung sind Sie in der Lage sich einfacher zu bewegen und gesünder Sport zu treiben.
-Verschiedenste Entspannungstechnicken kommen bei mir zum Einsatz:
+Verschiedenste Entspannungstechniken kommen bei mir zum Einsatz:
 - Progressive Muskelentspannung (Jacobsen)
 - Autogenes Training
 - Feldenkrais

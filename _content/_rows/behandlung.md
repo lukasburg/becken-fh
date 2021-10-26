@@ -8,7 +8,6 @@ background-colored: false
 ## Behandlungen
 
 Mein Therapieangebot umfasst einen individuellen und ganzheitlichen Behandlungsansatz.
-Jeder Mensch braucht eine individuelle Behandlung.
 Daher nehme ich mir für jede Behandlung Zeit, um das gemeinsam gesteckte Therapieziel zu erreichen.
 
 Bitte beachten Sie, dass sich mein spezialisiertes Leistungsangebot ausschließlich an Selbstzahler und Versicherte privater Krankenkassen richtet.
