@@ -71,6 +71,13 @@ body {
   }
 }
 
+@include media-breakpoint-down(sm) {
+  .container {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+  }
+}
+
 .background-image .full-height {
   max-height: inherit;
 }
