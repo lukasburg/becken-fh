@@ -14,7 +14,7 @@
         {% for row in site.rows %}
         {% if row.anchor %}
           <li class="nav-item px-lg-4 py-1">
-            <a class="nav-link p-0" aria-current="page" href="{% unless page.url=='/' %}/{% endunless %}#{{ row.anchor.link }}">
+            <a class="nav-link p-0 text-center" aria-current="page" href="{% unless page.url=='/' %}/{% endunless %}#{{ row.anchor.link }}">
               {{ row.anchor.title }}
             </a>
           </li>
