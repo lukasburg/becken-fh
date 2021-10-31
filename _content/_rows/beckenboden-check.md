@@ -2,7 +2,7 @@
 beckencheck-layout: true
 anchor:
   link: beckenboden-check
-  title: Beckenboden Check
+  title: Beckenboden-Check
 image: 
   file: /assets/images/carine-392.jpg
   width: col-lg-5 pt-lg-5 mt-lg-5
@@ -29,10 +29,10 @@ Außerdem kann ich feststellen, ob eine Senkung der Blase, Gebärmutter oder des
 
 Während der Untersuchung lernen Sie schon Ihren Beckenboden bewusst wahrzunehmen und die Muskulatur effektiver einzusetzen.
 Zusätzlich zum Beckenboden untersuche ich die Funktion der Bauchmuskulatur. 
-Bei Patientinnen, die nach der Schwangerschaft kommen erfolgt auch eine Kontrolle auf eine mögliche {{ link | strip_newlines }}.
+Bei Patientinnen, die nach der Schwangerschaft kommen, erfolgt auch eine Kontrolle auf eine mögliche {{ link | strip_newlines }}.
 
-Nach Abschluss der Untersuchung folgt eine Beratung und Sie erhalten eine zielgerichtete Empfehlung, wie wir uns weiter um Ihren Beckenboden kümmern können.
+Nach Abschluss der Untersuchung berate ich Sie ausführlich und Sie erhalten eine zielgerichtete Empfehlung, wie wir uns weiter um Ihren Beckenboden kümmern können.
 
-Der Beckenboden-Check kann ohne ärztliche Vorordnung erfolgen und wird von mir als Selbstzahlerleistung mit 95€ abgerechnet.
+Der Beckenboden-Check kann ohne ärztliche Verordnung erfolgen und wird von mir als Selbstzahlerleistung mit 95€ abgerechnet.
 
 <div class="pb-5">{% include kontakt-link.html %}</div>

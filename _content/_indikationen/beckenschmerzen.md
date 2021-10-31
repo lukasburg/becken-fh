@@ -16,7 +16,7 @@ Eine ganzheitliche physiotherapeutische Behandlung kann helfen diese Schmerzen z
 
 Weitere Beschwerden bei denen Sie mich konsultieren können sind:
 - Dyspareunie (Schmerzen beim Geschlechtsverkehr)
-- rezidivierende oder chronische Blasenentzündungen ( Interstitielle Cystitis)
+- rezidivierende oder chronische Blasenentzündungen (Interstitielle Cystitis)
 - Endometriose
 - Vaginismus
 - Schmerzen der Dammrissnarbe oder Symphyse (Schambein)

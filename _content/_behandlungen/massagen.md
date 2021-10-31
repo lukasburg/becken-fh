@@ -8,7 +8,7 @@ modal-link: massagen
 
 ### Entspannungstherapie
 Meine Erfahrung als Allgemein- und Beckenbodenphysiotherapeutin hat mich gelehrt, dass der Großteil der Beschwerden und Schmerzen seine Ursache in Stress und Anspannung findet.
-Oft gehen einseitig oder mangelnde Bewegung damit einher.
+Oft gehen einseitige oder mangelnde Bewegung damit einher.
 
 Durch das Erlernen von Entspannung sind Sie in der Lage sich einfacher zu bewegen und gesünder Sport zu treiben.
 Verschiedenste Entspannungstechniken kommen bei mir zum Einsatz:

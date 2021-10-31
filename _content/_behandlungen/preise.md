@@ -7,11 +7,11 @@ modal-link: preise
 ---
 
 Bitte beachten Sie, dass sich mein spezialisiertes Leistungsangebot ausschließlich an Selbstzahler und Versicherte privater Krankenkassen richtet.
-Das Ersttermin mit ausführlichem Befund und anschließender Beratung ist nur als Selbstzahlerleistung möglich.
+Der Ersttermin mit ausführlichem Befund und anschließender Beratung ist nur als Selbstzahlerleistung möglich.
 
 Physiotherapeutische Behandlungen werden von privaten Krankenversicherungen meist teilweise erstattet.
 Private Zusatzversicherungen übernehmen ebenfalls einen Teil der Kosten, da ich Heilpraktikerin für Physiotherapeutin bin.
-Informieren Sie sich vor Behandlung nach der Kostenübernahme ihre Krankenversicherung.
+Informieren Sie sich vor Behandlung über die Kostenübernahme durch ihre Krankenversicherung.
 
 Der Beckenboden-Check ist eine reine Selbstzahlerleistung.
 **Da meine Praxis eine Privatpraxis ist, ist die Abrechnung von Rezepten der gesetzlichen Kasse nicht möglich!**

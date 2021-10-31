@@ -22,4 +22,4 @@ Mögliche Diagnosen sind Prostatitis oder Prostatodynie.
 Die physiotherapeutische funktionelle Diagnostik stellt jedoch häufig eine Verspannung der Beckenbodenmuskulatur fest.
 
 Mit Entspannungs-, Dehnungs- und Haltungsübungen ist Entspannung und Schmerzlinderung möglich.
-Ein {{ link | strip_newlines }} um genau zu überprüfen, ob Sie die Muskulatur richtig ansteuern können, ist sehr empfehlenswert.
+Ein {{ link | strip_newlines }}, um genau zu überprüfen, ob Sie die Muskulatur richtig ansteuern können, ist sehr empfehlenswert.

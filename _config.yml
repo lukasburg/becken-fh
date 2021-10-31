@@ -2,6 +2,9 @@ domain: beckenboden-friedrichshagen.de       # if you want to force HTTPS, speci
 url: https://beckenboden-friedrichshagen.de  # the base hostname and protocol for your site, e.g. http://example.com
 repository: carineschippers/carineschippers.github.io
 
+description: |
+  Beckenboden Physiotherapie in Friedrichshagen. Carine Schippers
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
