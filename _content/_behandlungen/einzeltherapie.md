@@ -7,16 +7,19 @@ modal-link: einzeltherapie
 size: lg
 ---
 
-Ich biete Frauen und Männern jeden Alters in vertrauensvoller Atmosphäre Beckenbodentherapie nach Standards des PhysioPelvica® Konzeptes an.
-Für mehr Informationen besuchen sie die Seite der Arbeitsgemeinschaft Gynäkologie, Geburtshilfe, Urologie und Proktologie des Deutschen Verbandes der Physiotherapeuten an.
+{% capture link-ag %}{% include link.html text="(AG GGUP)" href="https://www.ag-ggup.de/" %}{% endcapture %}
+{% capture link-check %}{% include link.html text="Beckenboden-Check" href="#beckenboden-check" %}{% endcapture %}
 
-<!-- TODO LINK -->
+Ich biete Frauen und Männern jeden Alters in vertrauensvoller Atmosphäre Beckenbodentherapie nach Standards des PhysioPelvica® Konzeptes an.
+Für mehr Informationen besuchen sie die Seite der Arbeitsgemeinschaft Gynäkologie, Geburtshilfe, Urologie und Proktologie des Deutschen Verbandes der Physiotherapeuten {{link-ag}}.
 
 Der Schwerpunkt der PhysioPelvica®-Therapie liegt in der Stärkung der Funktionalität des Beckenbodens unter Berücksichtigung der wichtigen Zusammenhänge zwischen Beckenboden, Bauch, Blase, Darm, Atmung, Haltung und Stabilität.
 Eine ausreichende Beweglichkeit der Lendenwirbelsäule, des Beckens, der Hüftgelenke und der Füße, spielt ebenfalls eine wichtige Rolle in der Funktion ihres Beckenbodens.
 
 Auf Basis der Untersuchungsergebnisse des Beckenboden-Checks erarbeiten wir gemeinsam ihr individuelles Therapieprogramm.
 Die Übungen werden in verschiedenen Alltagsituationen mit Ihnen geübt, bis Sie ihr Ziel erreichen konnten (z.B. in ihrem Sport).
+
+**Allen Patient\*innen mit Beckenboden-Beschwerden empfehle ich einen** {{link-check}}.
 
 Die Erstellung eines Miktionsprotokolles und ausführliche Information zur Funktion der Blase, des Darmes und der Muskulatur gehören zu wichtigen Bestandteilen einer guten Therapie.
 
