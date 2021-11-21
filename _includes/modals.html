@@ -1,7 +1,7 @@
 {% for item in include.modals %}
   <!-- Modal -->
   <div class="modal fade" id="{{ item.modal-link }}" tabindex="-1" aria-labelledby="{{ item.title }}" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-md">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-{{ item.size }}">
       <div class="modal-content">
         <div class="modal-header">
           <h5 class="modal-title" id="exampleModalLabel">{{ item.title }}</h5>

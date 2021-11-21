@@ -5,6 +5,7 @@ preface: |
   Sie möchten eine Beratung über konservative Behandlungsmöglichkeiten?
 
 modal-link: senkungsbeschwerden
+size: md
 ---
 
 {% capture link %}{% include link.html text="Pessarberatung" href="#pessarberatung-anchor" blink="pessarberatung-box" %}{% endcapture %}

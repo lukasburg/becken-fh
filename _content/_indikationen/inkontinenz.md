@@ -4,6 +4,7 @@ preface: |
   Sie leiden unter unfreiwilligem Verlust von Harn, Wind oder Stuhl?
 
 modal-link: inkontinenz
+size: md
 ---
 
 *Sie leiden unter unfreiwilligem Verlust von Harn, Wind oder Stuhl?*

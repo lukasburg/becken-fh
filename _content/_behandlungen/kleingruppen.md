@@ -4,6 +4,7 @@ preface: |
   Als Einstieg, zur Wiederholung, zur Prävention oder während ihrer Therapie.
 
 modal-link: kleingruppen
+size: md
 ---
 
 Viele Wahrnehmungs-, Entspannungs-, Kraft- und Atemübungen können gemeinsam in einer Gruppe erlernt werden.

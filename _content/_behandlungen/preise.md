@@ -4,23 +4,35 @@ preface: |
   Hier finden Sie Informationen zu den Preisen meiner Leistungen.
 
 modal-link: preise
+size: lg
 ---
 
-Bitte beachten Sie, dass sich mein spezialisiertes Leistungsangebot ausschließlich an Selbstzahler und Versicherte privater Krankenkassen richtet.
+Da ich Heilpraktikerin für Physiotherapie bin, darf ich Sie jederzeit ohne ärztliche Verordnung behandeln.
 
-Physiotherapeutische Behandlungen werden von privaten Krankenversicherungen meist teilweise erstattet.
-Private Zusatzversicherungen übernehmen ebenfalls einen Teil der Kosten, da ich Heilpraktikerin für Physiotherapeutin bin.
-Informieren Sie sich vor Behandlung über die Kostenübernahme durch ihre Krankenversicherung.
+Privatversicherte können selbstverständlich auch mit ihrer ärztlichen Verordnung zu mir kommen.
 
-Der Ersttermin mit ausführlichem Befund und anschließender Beratung ist nur als Selbstzahlerleistung möglich.
-Der Beckenboden-Check ist eine reine Selbstzahlerleistung.
+Private Krankenversicherungen, Beihilfe und Zusatzversicherungen erstatten je nach individuellem Tarif die Behandlungskosten ganz oder teilweise. Für private Physiotherapiepraxen gibt es keine einheitliche und verbindliche Gebührenordnung wie für gesetzlich Versicherte, daher orientieren sich meine Preise:
+
+- für Privatversicherte mit Ärtzliche Verordnung an den Sätzen der Gebührenübersicht für Therapeuten (GebüTh) und betragen in der Regel das 1,8 - bis 2,3-fache des Regelsatzes. Die Preise staffeln sich nach Sitzungsdauer, wobei die Mindestdauer 40 Minuten beträgt. Für ausführliche Information informieren Sie sich im Internet www.privatpreise.de
+
+- für Patient\*innen mit einer Heilpraktiker-Zusatzversicherung ohne Arztrezept am Gebührenverzeichnis für Heilpraktiker (GebüH).
+
+Bitte erkundigen Sie sich bei Ihrer privaten Krankenversicherung nach individuellen Erstattungsmöglichkeiten.
 
 **Da meine Praxis eine Privatpraxis ist, ist die Abrechnung von Rezepten der gesetzlichen Kasse nicht möglich!**
 
-Da ich Heilpraktikerin für Physiotherapie bin, darf ich Sie jederzeit ohne ärztliche Verordnung behandeln.
-Selbstverständlich können Sie als Privatversicherte\*r auch mit ihrer ärztlichen Verordnung zu mir kommen.
+Versicherte der gesetzlichen Krankenkassen können ohne Arztrezept als Selbstzahler zu mir kommen. Die regulären Kosten betragen:
 
-<div class="row border-top pt-3">
+- Beckenboden-Check 75 Min.: 95€
+- Erstbehandlung 60 Min.: 70 € 
+- Folgebehandlung 40 Minuten: 45 € 
+- Beckenboden-Gruppe 5 Mal 75 Min. mit max. 5 Frauen: 150€ 
+
+Allen Patient\*innen mit Beckenboden-Beschwerden empfehle ich einen Beckenboden-Check.
+
+Bei Fragen rufen Sie mich gerne an.
+
+<!-- <div class="row border-top pt-3">
   <h5>Preise</h5>
   <div class="row justify-content-between pb-1">
     <div class="col-auto">Beckenboden-Check (75 min.)</div>
@@ -39,3 +51,4 @@ Selbstverständlich können Sie als Privatversicherte\*r auch mit ihrer ärztlic
     <div class="col-auto">150€</div>
   </div>
 </div>
+ -->

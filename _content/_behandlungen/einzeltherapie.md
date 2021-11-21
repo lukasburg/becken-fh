@@ -4,6 +4,7 @@ preface: |
   Ganzheitliche Therapie in vertrauensvoller Atmosphäre für Frauen & Männer.
 
 modal-link: einzeltherapie
+size: md
 ---
 
 Ich biete Frauen und Männern jeden Alters in vertrauensvoller Atmosphäre Beckenbodentherapie nach Standards des PhysioPelvica® Konzeptes an.

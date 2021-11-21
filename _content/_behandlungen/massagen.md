@@ -4,6 +4,7 @@ preface: |
   Genießen Sie eine wohltuende Massage! Bei Verspannungen, Schmerzen oder zur Prävention.
 
 modal-link: massagen
+size: md
 ---
 
 ### Entspannungstherapie

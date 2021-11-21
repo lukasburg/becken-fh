@@ -5,6 +5,7 @@ preface: |
   Sie sind jung und haben Schmerzen im Beckenbodenbereich? 
 
 modal-link: maenner
+size: md
 ---
 
 {% capture link %}{% include link.html text="Beckenboden-Check" href="#beckenboden-check" %}{% endcapture %}

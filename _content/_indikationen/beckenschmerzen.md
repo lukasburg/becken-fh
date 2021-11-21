@@ -3,6 +3,7 @@ title: Beckenschmerzen
 preface: |
   Sie haben Schmerzen im Unterbauch, Beckenboden oder in der Blase?
 
+size: md
 modal-link: beckenschmerzen
 ---
 

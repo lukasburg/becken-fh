@@ -7,6 +7,7 @@ anchor:
   link: rektusdiastase-anchor
 
 modal-link: rektusdiastase
+size: md
 ---
 
 In der Schwangerschaft dehnt sich die Bauchmuskulatur, um Platz für das Kind zu schaffen.

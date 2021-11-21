@@ -3,6 +3,7 @@ title: Blasen- oder Darmbeschwerden
 preface: |
   Sie leiden unter einer Reizblase oder Verstopfung?
 
+size: md
 modal-link: blasenbeschwerden
 ---
 

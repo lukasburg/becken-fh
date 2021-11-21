@@ -4,6 +4,7 @@ preface: |
   Sie möchten die Funktion ihres Beckenbodens während der Schwangerschaft oder nach der Geburt trainieren? 
 
 modal-link: schwangerschaft
+size: md
 ---
 
 {% capture link %}{% include link.html text="Rektusdiastase" href="#rektusdiastase-anchor" blink="rektusdiastase-box" %}{% endcapture %}

@@ -4,6 +4,7 @@ preface: |
   Bei Beschwerden und Schmerzen im Bewegungsapparat oder zur Prävention
 
 modal-link: coaching
+size: md
 ---
 <!-- {% capture link %}{% include link.html text="feldenkrais-friedrichshagen.de" href="http://www.feldenkrais-friedrichshagen.de" %}{% endcapture %} -->
 
