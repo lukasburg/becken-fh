@@ -22,10 +22,8 @@ Nachdem ich 2002 nach Deutschland umgezogen bin, habe ich nach verschiedenen and
 Hier habe ich bis 2021 gearbeitet.
 <!-- TODO: Warum aufgehört -->
 
-Neben meiner Spezialisierung im Beckenbodenbereich bin ich eine erfahrene Allgemeinphysiotherapeutin mit vielen verschiedenen Weiterbildungen.
+Neben meiner Spezialisierung im Beckenbodenbereich bin ich eine erfahrene Allgemeinphysiotherapeutin mit vielen verschiedenen Weiterbildungen. Hier finden Sie meinen {% include lebenslauf-link.html %}.
 Sie können mich mit allen Beschwerden im Bereich des Bewegungsapparates konsultieren.
-<!-- TODO: Eine Listen finden SIe noch nicht -->
-<!-- Schauen Sie nach meine Qualifikationen  Lebenslauf -->
 
 Ich habe die Berechtigung als Heilpraktikerin für Physiotherapie zu arbeiten.
 Dadurch darf ich Sie auch ohne ärztliche Verordnung behandeln.
