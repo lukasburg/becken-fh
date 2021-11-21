@@ -3,7 +3,7 @@ url: https://beckenboden-friedrichshagen.de  # the base hostname and protocol fo
 repository: carineschippers/carineschippers.github.io
 
 description: |
-  Beckenboden Physiotherapie in Friedrichshagen. Carine Schippers
+  Herzlich willkommen auf der Webseite der Privatpraxis für Physiotherapie & Beckenboden-Gesundheit in Friedrichshagen.
 
 plugins:
   - jekyll-sitemap
