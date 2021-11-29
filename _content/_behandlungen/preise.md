@@ -3,13 +3,14 @@ title: Preise
 preface: |
   Hier finden Sie Informationen zu den Preisen meiner Leistungen.
 
+anchor:
+  link: preise-anchor
+
 modal-link: preise
 size: lg
 ---
 
 {% capture link %}{% include link.html text="www.privatpreise.de" href="https://www.privatpreise.de" %}{% endcapture %}
-
-<!-- TODO LINK ({{ link }}) -->
 
 Da ich Heilpraktikerin für Physiotherapie bin, darf ich Sie jederzeit ohne ärztliche Verordnung behandeln.
 
@@ -33,24 +34,3 @@ Versicherte der gesetzlichen Krankenkassen können ohne Arztrezept als Selbstzah
 *Da meine Praxis eine Privatpraxis ist, ist die Abrechnung von Rezepten der gesetzlichen Kasse nicht möglich!*
 
 Bei Fragen rufen Sie mich gerne an.
-
-<!-- <div class="row border-top pt-3">
-  <h5>Preise</h5>
-  <div class="row justify-content-between pb-1">
-    <div class="col-auto">Beckenboden-Check (75 min.)</div>
-    <div class="col-auto">95€</div>
-  </div>
-  <div class="row justify-content-between pb-1">
-    <div class="col-auto">Ersttermin (60 min.)</div>
-    <div class="col-auto">70€</div>
-  </div>
-  <div class="row justify-content-between pb-1">
-    <div class="col-auto">Folgebehandlungen (40 min.)</div>
-    <div class="col-auto">45€</div>
-  </div>
-  <div class="row justify-content-between pb-1">
-    <div class="col-auto">Beckenbodengruppe (5 mal 75 min.)</div>
-    <div class="col-auto">150€</div>
-  </div>
-</div>
- -->

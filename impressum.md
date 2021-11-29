@@ -3,6 +3,12 @@ layout: legal
 title: Impressum
 ---
 
+### Mit Dank an:
+
+**Ralf Hiemisch**, den Fotographen der Fotos dieser Webseite: {% include link.html text="www.ralfhiemisch.de" href="https://www.ralfhiemisch.de" %}
+
+**Claudia Götz**, für das Filzmodell des Beckenbodens: {% include link.html text="www.beckenbodenmodell.de" href="https://www.beckenbodenmodell.de" %}
+
 ### Die folgenden Angaben sind laut § 5 Telemediengesetz vorgeschrieben:
 
 Verantwortlich für Inhalt und Gestaltung der Website:
