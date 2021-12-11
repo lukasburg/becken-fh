@@ -16,6 +16,6 @@ Bei Ihnen ist eine Senkung der Blase, Gebärmutter oder des Enddarms diagnostizi
 Eine physiotherapeutische Behandlung kann Sie dabei unterstützen, Faktoren zu beheben, die zu Senkungen führen.
 Ich berate Sie zu Hilfsmitteln und helfe Ihnen bei der Kräftigung Ihres Beckenbodens.
 
-Vor oder nach einer Operationen im gynakologischen oder urologischen Bereich,
+Vor oder nach einer Operation im gynäkologischen oder urologischen Bereich
 kann eine Beckenbodentherapie hilfreich sein, um den Beckenboden in eine optimale Kondition zu bringen.
-Vielleicht hat Ihnen ihr/ihre Artz/Ärztin eine Beckenbodentherapie empfohlen.
+Vielleicht hat Ihnen Ihr/Ihre Arzt/Ärztin eine Beckenbodentherapie empfohlen.

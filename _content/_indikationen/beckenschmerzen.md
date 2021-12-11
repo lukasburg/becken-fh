@@ -15,7 +15,7 @@ Schmerzen im Unterbauch, Becken, Steißbein, Genitalien oder After sind nicht se
 Häufig gehen diese mit anderen Problemen wie starker Drang oder Entleerungsstörungen einher.
 Eine ganzheitliche physiotherapeutische Behandlung kann helfen diese Schmerzen zu lindern.
 
-Weitere Beschwerden bei denen Sie mich konsultieren können sind:
+Weitere Beschwerden, bei denen Sie mich konsultieren können, sind:
 - Dyspareunie (Schmerzen beim Geschlechtsverkehr)
 - rezidivierende oder chronische Blasenentzündungen (Interstitielle Cystitis)
 - Endometriose

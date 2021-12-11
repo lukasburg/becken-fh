@@ -24,7 +24,7 @@ In einem ausführlichen Gespräch (Anamnese) mache ich mir ein genaues Bild von 
 Sie haben Zeit Ihre Probleme zu schildern und Fragen zu stellen.
 
 Danach wird mit Ihrem Einverständnis Ihr Beckenboden ausführlich durch eine intra-vaginale Palpation untersucht.
-Dabei prüfe ich die Kraft, sowie die Ansteuerungs- und Entspannungfähigkeit Ihrer Muskulatur.
+Dabei prüfe ich die Kraft sowie die Ansteuerungs- und Entspannungsfähigkeit Ihrer Muskulatur.
 Außerdem kann ich feststellen, ob eine Senkung der Blase, Gebärmutter oder des Enddarms vorliegt.
 
 Während der Untersuchung lernen Sie schon Ihren Beckenboden bewusst wahrzunehmen und die Muskulatur effektiver einzusetzen.
