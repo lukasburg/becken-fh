@@ -13,11 +13,19 @@
       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
         {% for row in site.rows %}
         {% if row.anchor %}
-          <li class="nav-item px-lg-4 py-1">
-            <a class="nav-link p-0 text-center" aria-current="page" href="{% unless page.url=='/' %}/{% endunless %}#{{ row.anchor.link }}">
-              {{ row.anchor.title }}
-            </a>
-          </li>
+          {% if row.anchor.blink %}
+            <li class="nav-item px-lg-4 py-1">
+              <a class="nav-link p-0 text-center" aria-current="page" href="{% unless page.url=='/' %}/{% endunless %}#{{ row.anchor.link }}" onclick="blinkBox('{{ row.anchor.target }}')">
+                {{ row.anchor.title }}
+              </a>
+            </li>
+          {% else %}
+            <li class="nav-item px-lg-4 py-1">
+              <a class="nav-link p-0 text-center" aria-current="page" href="{% unless page.url=='/' %}/{% endunless %}#{{ row.anchor.link }}">
+                {{ row.anchor.title }}
+              </a>
+            </li>
+          {% endif %}
         {% endif %}
         {% endfor %}
       </ul>
