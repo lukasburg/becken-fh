@@ -2,9 +2,9 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
+gem "rails"
 gem "jekyll", '~> 4'
-gem 'bootstrap', '~> 5.1.0'
+gem 'bootstrap', '~> 5.2.0'
 
 group :jekyll_plugins do
   gem 'jekyll-sitemap'

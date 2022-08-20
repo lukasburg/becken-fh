@@ -9,7 +9,7 @@ title: Datenschutzerklärung
 
 - Carine Schippers
 - Fangschleusenstr. 21, 15569 Woltersdorf
-- <a class="kontakt-link" href="mailto:kontakt@becken-fh.de">kontakt@beckenfh.de</a> / <a class="kontakt-link" href="tel:+49 1774 29 31 851">+49 1774 29 31 85</a>
+- <a class="kontakt-link" href="mailto:kontakt@beckenfh.de">kontakt@beckenfh.de</a> / <a class="kontakt-link" href="tel:+49 1774 29 31 851">+49 1774 29 31 85</a>
 
 ##### Ihre Betroffenenrechte
 
