@@ -6,5 +6,5 @@ beckenphysio.sublime-project
 _sync.sh
 .bundle/
 .sass-cache/
-_mama
 .jekyll-metadata
+Gemfile.lock
