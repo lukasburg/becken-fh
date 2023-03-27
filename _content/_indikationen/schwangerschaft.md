@@ -1,7 +1,7 @@
 ---
 title: Schwangerschaft & Geburt
 preface: |
-  Sie möchten die Funktion ihres Beckenbodens während der Schwangerschaft oder nach der Geburt trainieren? 
+  Sie möchten Funktion ihres Beckenbodens während der Schwangerschaft oder nach der Geburt trainieren? 
 
 modal-link: schwangerschaft
 size: md

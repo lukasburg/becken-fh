@@ -1,7 +1,7 @@
 ---
 title: Coaching & Physiotherapie
 preface: |
-  Bei Beschwerden und Schmerzen im Bewegungsapparat oder zur Prävention
+  Bei Beschwerden und Schmerzen im Bewegungsapparat oder zur Prävention.
 
 modal-link: coaching
 size: md
