@@ -33,15 +33,17 @@ collections:
     order:
       - einzeltherapie.md
       - kleingruppen.md
-      - rektusdiastase.md
       - coaching.md
+      - rektusdiastase.md
       - massagen.md
+  preise:
+    order:
       - preise.md
   rows:
     order:
       - top-foto.html
       - willkommen.md
-      - aktuelles.html
+#      - aktuelles.html
       - beckenboden-gesundheit.md
       - indikationen.html
       - beckenboden-check.md
@@ -52,3 +54,6 @@ collections:
       - kontakt.html
 
 permalink: /:title
+
+tel_num: "+49 1774 29 31 85"
+e_mail: "kontakt@beckenfh.de"
