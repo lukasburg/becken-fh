@@ -43,7 +43,8 @@ collections:
     order:
       - top-foto.html
       - willkommen.md
-#      - aktuelles.html
+      # - aktuelles.html
+      - no_aktuelles.html
       - beckenboden-gesundheit.md
       - indikationen.html
       - beckenboden-check.md

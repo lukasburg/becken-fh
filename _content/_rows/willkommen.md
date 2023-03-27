@@ -18,4 +18,6 @@ Für eine persönliche Beratung oder mehr Informationen melden Sie sich gerne be
 
 Carine Schippers
 
+{% if site.rows[2].title == 'Aktuelles' %}
 <div>{% include kontakt-link.html %}</div>
+{% endif %}
