@@ -1,11 +1,11 @@
-<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 justify-content-center">
   {% for item in include.blocks %}
-    <div class="col p-3 px-4 py-lg-4">
+    <div class="col p-3 px-4 py-lg-3">
       {% if item.anchor %}<a id="{{ item.anchor.link }}" class="high-anchor"></a>{% endif %}
       <a class="card h-100 background-blue-crayola" data-bs-toggle="modal" data-bs-target="#{{ item.modal-link }}" id="{{ item.modal-link }}-box">
         <div class="card-body px-4">
           <h5 class="card-title pb-2 text-center">{{ item.title }}</h5>
-          <p class="card-text fst-italic">{{ item.preface }}</p>
+          <p class="card-text ">{{ item.preface }}</p>
         </div>
       </a>
     </div>

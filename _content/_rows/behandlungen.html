@@ -2,17 +2,23 @@
 background-colored: true
 anchor:
   link: behandlungen
-  title: Behandlungen
-  blink: true
-  target: preise-box
+  title: Behandlungen & Preise
 ---
 
-<div class="row justify-content-center pb-3">
+<div class="row justify-content-center">
   <div class="col-auto text-center">
-    <h3>Behandlungen</h3>
+    <h3>Behandlungen & Preise</h3>
     <!-- Was biete ich an? -->
   </div>
 </div>
 
-{% include blocks.html blocks=site.behandlungen %}
+<div class="d-flex flex-column pb-3">
+  <div class="order-lg-1 order-2">
+  {% include blocks.html blocks=site.behandlungen %}
+  </div>
+  <div class="order-lg-2 order-1">
+    {% include blocks.html blocks=site.preise %}
+  </div>
+</div>
+
 {% include kontakt-link.html %}
