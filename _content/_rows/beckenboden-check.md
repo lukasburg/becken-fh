@@ -33,6 +33,6 @@ Bei Patientinnen, die nach der Schwangerschaft kommen, erfolgt auch eine Kontrol
 
 Nach Abschluss der Untersuchung berate ich Sie ausführlich und Sie erhalten eine zielgerichtete Empfehlung, wie wir uns weiter um Ihren Beckenboden kümmern können.
 
-Der Beckenboden-Check kann ohne ärztliche Verordnung erfolgen und wird von mir als Selbstzahlerleistung mit 95€ abgerechnet.
+Der Beckenboden-Check kann ohne ärztliche Verordnung erfolgen und wird von mir als Selbstzahlerleistung mit {{ site.data.preise["beckenboden"].amount }} abgerechnet.
 
 <div class="pb-5">{% include kontakt-link.html %}</div>

@@ -29,10 +29,10 @@ Die Preise liegen abhängig von der Leistung zwischen 75€ und 110€ pro Stund
 
 Versicherte der gesetzlichen Krankenkassen können ohne Arztrezept als Selbstzahler zu mir kommen. Die regulären Kosten betragen:
 
-- Beckenboden-Check 75min: **105€**
-- Erstbehandlung 60min: **80€** 
-- Folgebehandlung 45min: **55€**, Folgebehandlung 60 Minuten: **70€**
-- Beckenboden-Gruppe 5 Mal 75 Min. mit max. 5 Frauen: **165€** 
+- Beckenboden-Check 75min: **{{ site.data.preise["beckenboden"].amount }}**
+- Erstbehandlung 60min: **{{ site.data.preise["erst"].amount }}** 
+- Folgebehandlung 45min: **{{ site.data.preise["folge45"].amount }}**, Folgebehandlung 60min: **{{ site.data.preise["folge60"].amount }}**
+- Beckenboden-Gruppe 5 Mal 75 Min. mit max. 5 Frauen: **{{ site.data.preise["gruppe"].amount }}** 
 
 *Da meine Praxis eine Privatpraxis ist, ist die Abrechnung von Rezepten der gesetzlichen Kasse nicht möglich!*
 

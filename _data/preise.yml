@@ -1,0 +1,19 @@
+beckenboden:
+  name: "Beckenboden-Check 75min"
+  amount: 105€
+
+erst:
+  name: "Erstbehandlung 60min"
+  amount: 80€
+
+folge45:
+  name: "Folgebehandlung 45min"
+  amount: 55€
+
+folge60:
+  name: "Folgebehandlung 60min"
+  amount: 70€
+
+gruppe:
+  name: "Beckenboden-Gruppe"
+  amount: 165€
