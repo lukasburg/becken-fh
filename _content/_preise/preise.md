@@ -18,7 +18,7 @@ Privatversicherte können selbstverständlich auch mit ihrer ärztlichen Verordn
 
 Private Krankenversicherungen, Beihilfe und Zusatzversicherungen erstatten je nach individuellem Tarif die Behandlungskosten ganz oder teilweise. Für private Physiotherapiepraxen gibt es keine einheitliche und verbindliche Gebührenordnung wie für gesetzlich Versicherte, daher orientieren sich meine Preise:
 
-- für Privatversicherte mit Ärtzliche Verordnung an den Sätzen der Gebührenübersicht für Therapeuten (GebüTh) und betragen in der Regel das 1,8-fache des Regelsatzes. Die Preise staffeln sich nach Sitzungsdauer, wobei die Mindestdauer 45 Minuten beträgt. Für ausführliche Information informieren Sie sich im Internet {{ link }}.
+- für Privatversicherte mit Ärtzliche Verordnung an den Sätzen der Gebührenübersicht für Therapeuten (GebüTh) und betragen in der Regel das 1,6 bis 1,8-fache des Regelsatzes. Die Preise staffeln sich nach Sitzungsdauer, wobei die Mindestdauer 45 Minuten beträgt. Für ausführliche Information informieren Sie sich im Internet {{ link }}.
 
 - für Patient\*innen mit einer Heilpraktiker-Zusatzversicherung ohne Arztrezept am Gebührenverzeichnis für Heilpraktiker (GebüH).
 
