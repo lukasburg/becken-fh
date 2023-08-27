@@ -8,6 +8,7 @@ image:
 ---
 
 {% capture link %}{% include link.html text="Webseite" href="http://www.feldenkrais-friedrichshagen.de" %}{% endcapture %}
+{% capture lebenslauf %}{% include lebenslauf-link.html %}{% endcapture %}
 
 ## Über mich
 
@@ -20,9 +21,8 @@ Körperwahrnehmung, Balance zwischen Kraft und Entspannung, dynamische Haltung u
 
 Nachdem ich 2002 nach Deutschland umgezogen bin, habe ich nach verschiedenen anderen Tätigkeiten 2013 eine Stelle in einer spezialisierten Beckenboden-Praxis gefunden.
 Hier habe ich bis 2021 gearbeitet.
-<!-- TODO: Warum aufgehört -->
 
-Neben meiner Spezialisierung im Beckenbodenbereich bin ich eine erfahrene Allgemeinphysiotherapeutin mit vielen verschiedenen Weiterbildungen. Hier finden Sie meinen {% include lebenslauf-link.html %}.
+Neben meiner Spezialisierung im Beckenbodenbereich bin ich eine erfahrene Allgemeinphysiotherapeutin mit vielen verschiedenen Weiterbildungen. Hier finden Sie meinen {{ lebenslauf | strip_newlines }}.
 Sie können mich mit allen Beschwerden im Bereich des Bewegungsapparates konsultieren.
 
 Ich habe die Berechtigung als Heilpraktikerin für Physiotherapie zu arbeiten.
