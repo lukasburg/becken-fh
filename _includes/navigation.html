@@ -2,9 +2,7 @@
 <nav class="sticky-top navbar navbar-light navbar-expand-lg background-white" id="navbar">
   <div class="container">
     <a class="navbar-brand" href="{% if page.url=='/' %}#{% else %}/{% endif %}">
-      <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="currentColor" class="bi bi-wind" viewBox="0 0 16 16">
-        <use xlink:href="/assets/icons/bootstrap-icons.svg#wind"/>
-      </svg>
+      {% include_relative assets/icons/carine.svg %}
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
