@@ -22,7 +22,7 @@ Private Krankenversicherungen, Beihilfe und Zusatzversicherungen erstatten je na
 
 - für Patient\*innen mit einer Heilpraktiker-Zusatzversicherung ohne Arztrezept am Gebührenverzeichnis für Heilpraktiker (GebüH).
 
-Die Preise liegen abhängig von der Leistung zwischen 75€ und 110€ pro Stunde.
+Die Preise liegen abhängig von der Leistung zwischen 100€ und 130€ pro Stunde.
 
 *Geringfügige Abweichungen sind ggf. möglich.*
 *Bitte erkundigen Sie sich bei Ihrer privaten Krankenversicherung nach individuellen Erstattungsmöglichkeiten.*
