@@ -1,9 +1,9 @@
 <div class="pt-1"></div>
 <nav class="sticky-top navbar navbar-light navbar-expand-lg background-white" id="navbar">
   <div class="container">
-    <a class="navbar-brand" href="{% if page.url=='/' %}#{% else %}/{% endif %}">
-      {% include_relative assets/icons/carine.svg %}
-    </a>
+    <div class="navbar-brand">
+      <a class="icon-container" href="{% if page.url=='/' %}#{% else %}/{% endif %}">{% include_relative assets/icons/carine.svg %}</a>
+    </div>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

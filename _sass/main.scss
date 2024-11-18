@@ -56,6 +56,11 @@ body {
   border-bottom: 1px solid transparent;
 }
 
+.navbar-brand {
+  height: 64px;
+  padding: 0;
+}
+
 .navbar a.nav-link:hover {
   border-color: $navbar-light-hover-color;
 }
